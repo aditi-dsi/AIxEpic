@@ -1,0 +1,5790 @@
+{
+    "forecast_due_date": "2026-08-30",
+    "question_set": "2026-08-30-llm.json",
+    "resolutions": [
+        {
+            "id": "2780fd8e8824fafeeb8bed36c955fad96f9f38cb69ec0df94b1330613b547a2e",
+            "source": "acled",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "eb5315a618033ded4b60bd36f659477ec080cff43e308268d1d6fe472768ae8d",
+            "source": "acled",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "6d8b04b50709fb1f9bb493a36e27d41c3a24acaba3ffe982e9ad48b34b73d55a",
+            "source": "acled",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "076a766cf8e85cd5dc367bf989166be71e8458249368a451b7893bc1d0f83f45",
+            "source": "acled",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "14df2545fde8ad318442a3487040d611467e03f8c83be73b0ac2346ef9021804",
+            "source": "acled",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "686428731a16f580a7cfc88b581ffa242901b0eb885e2ea5b7168e4e2706e0ed",
+            "source": "acled",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "26a77f0daf907c5f4eff80c4211d5b937ca4b8b6b701c79fefa8ba923c0ccce1",
+            "source": "acled",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "3f6ab3c15649fb6bc60540f98e2c4c5b79709cdbca565eec1af8abe27b8338dc",
+            "source": "acled",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "ff9df0fcccbc0c90d12e1b084eca219918f110851b6c0549aa8f013e9494ae35",
+            "source": "acled",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "7b22d178be713b7564ebe8fb1ae33270d26df6856613e85c58e30ff73467ed10",
+            "source": "acled",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "6ed537159f60c9c8741d717655f7312ac2486a81a722de5d7f148e0626c75cb9",
+            "source": "acled",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "c35fcf7b563fb0e0f1b2bafb28de6cf49348fcc9eefad3910903bd08fdcbea2a",
+            "source": "acled",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "2bc62a375895dc4c89a7c6454e3a12fb2d7f0fe7770ca6c42c95b30977e604ca",
+            "source": "acled",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "ca6bf47d5f7d149d927f486711c030ba1006c6ef91d2b0afe74f5bfc439ff329",
+            "source": "acled",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "2adc41c1395e60e5d6de069c8cbfdef256acb92db8ffb78b5ad8f10a401081de",
+            "source": "acled",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "e46307afd4ed0b43ac3654c57bc962a20c0aa75de4795b531b2cd21b477ff355",
+            "source": "acled",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "ef7ba2ac2c7fef2be47e3524860b46e206353d027b2b208b9f738c28feb648bf",
+            "source": "acled",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "d57847aa88a64ffccb11e4e303a14a96c90783e4f8f06f9a85e8ceffb8a934e1",
+            "source": "acled",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "365ebbc4669aef1d1455160bcfbb55156bd5a05e9fb3cfe7a6aededccbd69f64",
+            "source": "acled",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "7b7bc581548682e323779edd8387a367ce4f96f94f7d839c64b4724f483eef11",
+            "source": "acled",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "73a19b5a3269b00508b89df17fedfdfbda62e8303478fe01dcf46c8231bb6485",
+            "source": "acled",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "3d1a622314334b1fdf5db2b627761de1074d41c93661a1174fa79b1904490b9a",
+            "source": "acled",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "6a0de243931b4c7a71a3a6737f1b76c47a21cbf7421a27c5086245e81bfeaacb",
+            "source": "acled",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "e53dabd31f71786f3b044bd12e498deee5a732a43de2d9be7468ebaced466977",
+            "source": "acled",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "ee8223494c625076701dac71a8c8ddfabae37a3d11a7a9d1b9a4918da072aa6c",
+            "source": "acled",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "abd370f7008067794d307d8078be608a59fc9cc5a6140ae84d5a1af5f1becb0c",
+            "source": "acled",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "fbf0348e9c9fd630d3bdb745ac44b9cd6d8b1ba2f57733929ce947665158310f",
+            "source": "acled",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "4b5fab95487f2c59dacc996eaed65461252d512cf0dc96514d1abb908d919db5",
+            "source": "acled",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "552415a5171b30c8ed9079c474cf5126d04752c8ca65b130b2da1727ccc217bd",
+            "source": "acled",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "dff3180b87a001a8dea33a69d2b715f9ef626f7b155229967994c1cd08cac3f2",
+            "source": "acled",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "2bbe225ae556b715917ec31bdc2cd9b94df091136ec3b3f39d71041a45b6ecb0",
+            "source": "acled",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "8c890f838064a395fd556d0a171a798e2a604d69372900325bd854f0ff1bf182",
+            "source": "acled",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "f2b3f8ed1ae3d1d486af647d689adf34558429acbfd3763e4bcff52e1f784d02",
+            "source": "acled",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "f4715ef60a896e3e73dc6a93283572fb8565f29789ae9e7bfa1fb625e1663b2f",
+            "source": "acled",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "56e6cb8efd8016906e1de891ee994fd7e3365cb8264305dbe813d3119dc80dc0",
+            "source": "acled",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "93586a2a759df7b9244d330127201d1ec591827a830deb82829ca64513b00fd6",
+            "source": "acled",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "e6c8934f55ad5c913cec5bdead27bb4869b851ac1bb03882af49251b067df9b2",
+            "source": "acled",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "ac104740ba3b09b1bf17f92de4171dc413862436c70af22695fa07809f77f757",
+            "source": "acled",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "84560290f0fdd0e711e926a753f1afc7e2f130115d683bccf996c12bd11ddfc4",
+            "source": "acled",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "8815b1dc55ad459b6ad65ccdc75cab489166e5502b9b150e3b236e1244918835",
+            "source": "acled",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "17fff2770afa4a5c0614a525861cc98d989ab93970be11c1f7ceced38340493d",
+            "source": "acled",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "7c33aebc5fb1e28a7b7ca2a3f0a493d9dec3f9708d582303651c341bcd171973",
+            "source": "acled",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "3c976f20c0554e12cd46a0467f3b8e9f7e0b71c54830043e25e6aa2de545446d",
+            "source": "acled",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "bfd10ce5aa0a9eb424cb0845571df5066963afe119873ff64e40422bd966633d",
+            "source": "acled",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "a867c8295beefe9b6f3e8d31e92526a22ad2305b7f0933730cb3bbcaf92d54aa",
+            "source": "acled",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "dc24b0eb186a7a757609f2553b7a114b5da0519b9cda7d46cd1364c8834b70aa",
+            "source": "acled",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "651791c5fe06517e694be8b710a51ce4fc2ac51a4f9789460a467d2035f1acfb",
+            "source": "acled",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "0c20162bae6257b7fcaa67c009a710e82f0faad0ce168d775b2bc3524121f83a",
+            "source": "acled",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "99dcc6f0d10b2c69f6a3c24415f4a480567edd3fdb2a54de50caf5ef91c17280",
+            "source": "acled",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "ad69d47f8f79511316a5e83847c6c93075d8947ebd2b30e107e5de7dc3fe2224",
+            "source": "acled",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "2780fd8e8824fafeeb8bed36c955fad96f9f38cb69ec0df94b1330613b547a2e",
+            "source": "acled",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "eb5315a618033ded4b60bd36f659477ec080cff43e308268d1d6fe472768ae8d",
+            "source": "acled",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "6d8b04b50709fb1f9bb493a36e27d41c3a24acaba3ffe982e9ad48b34b73d55a",
+            "source": "acled",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "076a766cf8e85cd5dc367bf989166be71e8458249368a451b7893bc1d0f83f45",
+            "source": "acled",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "14df2545fde8ad318442a3487040d611467e03f8c83be73b0ac2346ef9021804",
+            "source": "acled",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "686428731a16f580a7cfc88b581ffa242901b0eb885e2ea5b7168e4e2706e0ed",
+            "source": "acled",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "26a77f0daf907c5f4eff80c4211d5b937ca4b8b6b701c79fefa8ba923c0ccce1",
+            "source": "acled",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "3f6ab3c15649fb6bc60540f98e2c4c5b79709cdbca565eec1af8abe27b8338dc",
+            "source": "acled",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "ff9df0fcccbc0c90d12e1b084eca219918f110851b6c0549aa8f013e9494ae35",
+            "source": "acled",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "7b22d178be713b7564ebe8fb1ae33270d26df6856613e85c58e30ff73467ed10",
+            "source": "acled",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "6ed537159f60c9c8741d717655f7312ac2486a81a722de5d7f148e0626c75cb9",
+            "source": "acled",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "c35fcf7b563fb0e0f1b2bafb28de6cf49348fcc9eefad3910903bd08fdcbea2a",
+            "source": "acled",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "2bc62a375895dc4c89a7c6454e3a12fb2d7f0fe7770ca6c42c95b30977e604ca",
+            "source": "acled",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "ca6bf47d5f7d149d927f486711c030ba1006c6ef91d2b0afe74f5bfc439ff329",
+            "source": "acled",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "2adc41c1395e60e5d6de069c8cbfdef256acb92db8ffb78b5ad8f10a401081de",
+            "source": "acled",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "e46307afd4ed0b43ac3654c57bc962a20c0aa75de4795b531b2cd21b477ff355",
+            "source": "acled",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "ef7ba2ac2c7fef2be47e3524860b46e206353d027b2b208b9f738c28feb648bf",
+            "source": "acled",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "d57847aa88a64ffccb11e4e303a14a96c90783e4f8f06f9a85e8ceffb8a934e1",
+            "source": "acled",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "365ebbc4669aef1d1455160bcfbb55156bd5a05e9fb3cfe7a6aededccbd69f64",
+            "source": "acled",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "7b7bc581548682e323779edd8387a367ce4f96f94f7d839c64b4724f483eef11",
+            "source": "acled",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "73a19b5a3269b00508b89df17fedfdfbda62e8303478fe01dcf46c8231bb6485",
+            "source": "acled",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "3d1a622314334b1fdf5db2b627761de1074d41c93661a1174fa79b1904490b9a",
+            "source": "acled",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "6a0de243931b4c7a71a3a6737f1b76c47a21cbf7421a27c5086245e81bfeaacb",
+            "source": "acled",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "e53dabd31f71786f3b044bd12e498deee5a732a43de2d9be7468ebaced466977",
+            "source": "acled",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "ee8223494c625076701dac71a8c8ddfabae37a3d11a7a9d1b9a4918da072aa6c",
+            "source": "acled",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "abd370f7008067794d307d8078be608a59fc9cc5a6140ae84d5a1af5f1becb0c",
+            "source": "acled",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "fbf0348e9c9fd630d3bdb745ac44b9cd6d8b1ba2f57733929ce947665158310f",
+            "source": "acled",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "4b5fab95487f2c59dacc996eaed65461252d512cf0dc96514d1abb908d919db5",
+            "source": "acled",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "552415a5171b30c8ed9079c474cf5126d04752c8ca65b130b2da1727ccc217bd",
+            "source": "acled",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "dff3180b87a001a8dea33a69d2b715f9ef626f7b155229967994c1cd08cac3f2",
+            "source": "acled",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "2bbe225ae556b715917ec31bdc2cd9b94df091136ec3b3f39d71041a45b6ecb0",
+            "source": "acled",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "8c890f838064a395fd556d0a171a798e2a604d69372900325bd854f0ff1bf182",
+            "source": "acled",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "f2b3f8ed1ae3d1d486af647d689adf34558429acbfd3763e4bcff52e1f784d02",
+            "source": "acled",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "f4715ef60a896e3e73dc6a93283572fb8565f29789ae9e7bfa1fb625e1663b2f",
+            "source": "acled",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "56e6cb8efd8016906e1de891ee994fd7e3365cb8264305dbe813d3119dc80dc0",
+            "source": "acled",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "93586a2a759df7b9244d330127201d1ec591827a830deb82829ca64513b00fd6",
+            "source": "acled",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "e6c8934f55ad5c913cec5bdead27bb4869b851ac1bb03882af49251b067df9b2",
+            "source": "acled",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "ac104740ba3b09b1bf17f92de4171dc413862436c70af22695fa07809f77f757",
+            "source": "acled",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "84560290f0fdd0e711e926a753f1afc7e2f130115d683bccf996c12bd11ddfc4",
+            "source": "acled",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "8815b1dc55ad459b6ad65ccdc75cab489166e5502b9b150e3b236e1244918835",
+            "source": "acled",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "17fff2770afa4a5c0614a525861cc98d989ab93970be11c1f7ceced38340493d",
+            "source": "acled",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "7c33aebc5fb1e28a7b7ca2a3f0a493d9dec3f9708d582303651c341bcd171973",
+            "source": "acled",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "3c976f20c0554e12cd46a0467f3b8e9f7e0b71c54830043e25e6aa2de545446d",
+            "source": "acled",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "bfd10ce5aa0a9eb424cb0845571df5066963afe119873ff64e40422bd966633d",
+            "source": "acled",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "a867c8295beefe9b6f3e8d31e92526a22ad2305b7f0933730cb3bbcaf92d54aa",
+            "source": "acled",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "dc24b0eb186a7a757609f2553b7a114b5da0519b9cda7d46cd1364c8834b70aa",
+            "source": "acled",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "651791c5fe06517e694be8b710a51ce4fc2ac51a4f9789460a467d2035f1acfb",
+            "source": "acled",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "0c20162bae6257b7fcaa67c009a710e82f0faad0ce168d775b2bc3524121f83a",
+            "source": "acled",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "99dcc6f0d10b2c69f6a3c24415f4a480567edd3fdb2a54de50caf5ef91c17280",
+            "source": "acled",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "ad69d47f8f79511316a5e83847c6c93075d8947ebd2b30e107e5de7dc3fe2224",
+            "source": "acled",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "meteofrance_TEMPERATURE_celsius.07005.D",
+            "source": "dbnomics",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "meteofrance_TEMPERATURE_celsius.07005.D",
+            "source": "dbnomics",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "meteofrance_TEMPERATURE_celsius.07020.D",
+            "source": "dbnomics",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "meteofrance_TEMPERATURE_celsius.07020.D",
+            "source": "dbnomics",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "meteofrance_TEMPERATURE_celsius.07027.D",
+            "source": "dbnomics",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "meteofrance_TEMPERATURE_celsius.07027.D",
+            "source": "dbnomics",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "meteofrance_TEMPERATURE_celsius.07037.D",
+            "source": "dbnomics",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "meteofrance_TEMPERATURE_celsius.07037.D",
+            "source": "dbnomics",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "meteofrance_TEMPERATURE_celsius.07072.D",
+            "source": "dbnomics",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "meteofrance_TEMPERATURE_celsius.07072.D",
+            "source": "dbnomics",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "meteofrance_TEMPERATURE_celsius.07110.D",
+            "source": "dbnomics",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "meteofrance_TEMPERATURE_celsius.07110.D",
+            "source": "dbnomics",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "meteofrance_TEMPERATURE_celsius.07117.D",
+            "source": "dbnomics",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "meteofrance_TEMPERATURE_celsius.07117.D",
+            "source": "dbnomics",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "meteofrance_TEMPERATURE_celsius.07130.D",
+            "source": "dbnomics",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "meteofrance_TEMPERATURE_celsius.07130.D",
+            "source": "dbnomics",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "meteofrance_TEMPERATURE_celsius.07139.D",
+            "source": "dbnomics",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "meteofrance_TEMPERATURE_celsius.07149.D",
+            "source": "dbnomics",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "meteofrance_TEMPERATURE_celsius.07149.D",
+            "source": "dbnomics",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "meteofrance_TEMPERATURE_celsius.07168.D",
+            "source": "dbnomics",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "meteofrance_TEMPERATURE_celsius.07168.D",
+            "source": "dbnomics",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "meteofrance_TEMPERATURE_celsius.07181.D",
+            "source": "dbnomics",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "meteofrance_TEMPERATURE_celsius.07181.D",
+            "source": "dbnomics",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "meteofrance_TEMPERATURE_celsius.07190.D",
+            "source": "dbnomics",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "meteofrance_TEMPERATURE_celsius.07190.D",
+            "source": "dbnomics",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "meteofrance_TEMPERATURE_celsius.07222.D",
+            "source": "dbnomics",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "meteofrance_TEMPERATURE_celsius.07222.D",
+            "source": "dbnomics",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "meteofrance_TEMPERATURE_celsius.07240.D",
+            "source": "dbnomics",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "meteofrance_TEMPERATURE_celsius.07240.D",
+            "source": "dbnomics",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "meteofrance_TEMPERATURE_celsius.07255.D",
+            "source": "dbnomics",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "meteofrance_TEMPERATURE_celsius.07255.D",
+            "source": "dbnomics",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "meteofrance_TEMPERATURE_celsius.07280.D",
+            "source": "dbnomics",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "meteofrance_TEMPERATURE_celsius.07280.D",
+            "source": "dbnomics",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "meteofrance_TEMPERATURE_celsius.07299.D",
+            "source": "dbnomics",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "meteofrance_TEMPERATURE_celsius.07299.D",
+            "source": "dbnomics",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "meteofrance_TEMPERATURE_celsius.07335.D",
+            "source": "dbnomics",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "meteofrance_TEMPERATURE_celsius.07335.D",
+            "source": "dbnomics",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "meteofrance_TEMPERATURE_celsius.07434.D",
+            "source": "dbnomics",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "meteofrance_TEMPERATURE_celsius.07434.D",
+            "source": "dbnomics",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "meteofrance_TEMPERATURE_celsius.07460.D",
+            "source": "dbnomics",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "meteofrance_TEMPERATURE_celsius.07460.D",
+            "source": "dbnomics",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "meteofrance_TEMPERATURE_celsius.07471.D",
+            "source": "dbnomics",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "meteofrance_TEMPERATURE_celsius.07471.D",
+            "source": "dbnomics",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "meteofrance_TEMPERATURE_celsius.07481.D",
+            "source": "dbnomics",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "meteofrance_TEMPERATURE_celsius.07481.D",
+            "source": "dbnomics",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "meteofrance_TEMPERATURE_celsius.07510.D",
+            "source": "dbnomics",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "meteofrance_TEMPERATURE_celsius.07510.D",
+            "source": "dbnomics",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "meteofrance_TEMPERATURE_celsius.07535.D",
+            "source": "dbnomics",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "meteofrance_TEMPERATURE_celsius.07558.D",
+            "source": "dbnomics",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "meteofrance_TEMPERATURE_celsius.07558.D",
+            "source": "dbnomics",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "meteofrance_TEMPERATURE_celsius.07577.D",
+            "source": "dbnomics",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "meteofrance_TEMPERATURE_celsius.07577.D",
+            "source": "dbnomics",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "meteofrance_TEMPERATURE_celsius.07591.D",
+            "source": "dbnomics",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "meteofrance_TEMPERATURE_celsius.07591.D",
+            "source": "dbnomics",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "meteofrance_TEMPERATURE_celsius.07607.D",
+            "source": "dbnomics",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "meteofrance_TEMPERATURE_celsius.07607.D",
+            "source": "dbnomics",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "meteofrance_TEMPERATURE_celsius.07621.D",
+            "source": "dbnomics",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "meteofrance_TEMPERATURE_celsius.07621.D",
+            "source": "dbnomics",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "meteofrance_TEMPERATURE_celsius.07627.D",
+            "source": "dbnomics",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "meteofrance_TEMPERATURE_celsius.07627.D",
+            "source": "dbnomics",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "meteofrance_TEMPERATURE_celsius.07630.D",
+            "source": "dbnomics",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "meteofrance_TEMPERATURE_celsius.07630.D",
+            "source": "dbnomics",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "meteofrance_TEMPERATURE_celsius.07650.D",
+            "source": "dbnomics",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "meteofrance_TEMPERATURE_celsius.07650.D",
+            "source": "dbnomics",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "meteofrance_TEMPERATURE_celsius.07690.D",
+            "source": "dbnomics",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "meteofrance_TEMPERATURE_celsius.07690.D",
+            "source": "dbnomics",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "meteofrance_TEMPERATURE_celsius.07747.D",
+            "source": "dbnomics",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "meteofrance_TEMPERATURE_celsius.07747.D",
+            "source": "dbnomics",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "meteofrance_TEMPERATURE_celsius.07761.D",
+            "source": "dbnomics",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "meteofrance_TEMPERATURE_celsius.07761.D",
+            "source": "dbnomics",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "meteofrance_TEMPERATURE_celsius.61968.D",
+            "source": "dbnomics",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "meteofrance_TEMPERATURE_celsius.61968.D",
+            "source": "dbnomics",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "meteofrance_TEMPERATURE_celsius.61980.D",
+            "source": "dbnomics",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "meteofrance_TEMPERATURE_celsius.61980.D",
+            "source": "dbnomics",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "meteofrance_TEMPERATURE_celsius.61997.D",
+            "source": "dbnomics",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "meteofrance_TEMPERATURE_celsius.67005.D",
+            "source": "dbnomics",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "meteofrance_TEMPERATURE_celsius.67005.D",
+            "source": "dbnomics",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "meteofrance_TEMPERATURE_celsius.71805.D",
+            "source": "dbnomics",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "meteofrance_TEMPERATURE_celsius.71805.D",
+            "source": "dbnomics",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "meteofrance_TEMPERATURE_celsius.78890.D",
+            "source": "dbnomics",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "meteofrance_TEMPERATURE_celsius.78890.D",
+            "source": "dbnomics",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "meteofrance_TEMPERATURE_celsius.78894.D",
+            "source": "dbnomics",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "meteofrance_TEMPERATURE_celsius.78894.D",
+            "source": "dbnomics",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "meteofrance_TEMPERATURE_celsius.78897.D",
+            "source": "dbnomics",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "meteofrance_TEMPERATURE_celsius.78897.D",
+            "source": "dbnomics",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "meteofrance_TEMPERATURE_celsius.78925.D",
+            "source": "dbnomics",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "meteofrance_TEMPERATURE_celsius.78925.D",
+            "source": "dbnomics",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "meteofrance_TEMPERATURE_celsius.81401.D",
+            "source": "dbnomics",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "meteofrance_TEMPERATURE_celsius.81401.D",
+            "source": "dbnomics",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "meteofrance_TEMPERATURE_celsius.81405.D",
+            "source": "dbnomics",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "meteofrance_TEMPERATURE_celsius.81405.D",
+            "source": "dbnomics",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "BAMLC0A1CAAA",
+            "source": "fred",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "BAMLC0A1CAAA",
+            "source": "fred",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "BAMLC0A2CAA",
+            "source": "fred",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "BAMLC0A2CAA",
+            "source": "fred",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "BAMLC0A2CAAEY",
+            "source": "fred",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "BAMLC0A2CAAEY",
+            "source": "fred",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "BAMLC0A3CAEY",
+            "source": "fred",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "BAMLC0A3CAEY",
+            "source": "fred",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "BAMLC0A4CBBBEY",
+            "source": "fred",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "BAMLC0A4CBBBEY",
+            "source": "fred",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "BAMLC4A0C710YEY",
+            "source": "fred",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "BAMLC4A0C710YEY",
+            "source": "fred",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "BAMLH0A1HYBB",
+            "source": "fred",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "BAMLH0A1HYBB",
+            "source": "fred",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "BAMLH0A3HYCEY",
+            "source": "fred",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "BAMLH0A3HYCEY",
+            "source": "fred",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "CASACBW027SBOG",
+            "source": "fred",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "CASACBW027SBOG",
+            "source": "fred",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "CBBTCUSD",
+            "source": "fred",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "CBBTCUSD",
+            "source": "fred",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "CC4WSA",
+            "source": "fred",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "CC4WSA",
+            "source": "fred",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "DEXCHUS",
+            "source": "fred",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "DEXCHUS",
+            "source": "fred",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "DEXKOUS",
+            "source": "fred",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "DEXKOUS",
+            "source": "fred",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "DFEDTARL",
+            "source": "fred",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "DFEDTARL",
+            "source": "fred",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "DFF",
+            "source": "fred",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "DFF",
+            "source": "fred",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "DGS1",
+            "source": "fred",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "DGS1",
+            "source": "fred",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "DGS20",
+            "source": "fred",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "DGS20",
+            "source": "fred",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "DGS6MO",
+            "source": "fred",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "DGS6MO",
+            "source": "fred",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "DHHNGSP",
+            "source": "fred",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "DHHNGSP",
+            "source": "fred",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "DJIA",
+            "source": "fred",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "DJIA",
+            "source": "fred",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "DTB3",
+            "source": "fred",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "DTB3",
+            "source": "fred",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "DTWEXAFEGS",
+            "source": "fred",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "DTWEXAFEGS",
+            "source": "fred",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "ECBESTRVOLWGTTRMDMNRT",
+            "source": "fred",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "ECBESTRVOLWGTTRMDMNRT",
+            "source": "fred",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "EXPINF10YR",
+            "source": "fred",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "EXPINF2YR",
+            "source": "fred",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "GVZCLS",
+            "source": "fred",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "GVZCLS",
+            "source": "fred",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "ICSA",
+            "source": "fred",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "ICSA",
+            "source": "fred",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "IHLIDXUSTPSOFTDEVE",
+            "source": "fred",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "IHLIDXUSTPSOFTDEVE",
+            "source": "fred",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "IORB",
+            "source": "fred",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "IORB",
+            "source": "fred",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "IUDSOIA",
+            "source": "fred",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "IUDSOIA",
+            "source": "fred",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "MMTY",
+            "source": "fred",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "NFCIRISK",
+            "source": "fred",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "NFCIRISK",
+            "source": "fred",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "OBFR",
+            "source": "fred",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "OBFR",
+            "source": "fred",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "OBMMIJUMBO30YF",
+            "source": "fred",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "OBMMIJUMBO30YF",
+            "source": "fred",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "RESPPANWW",
+            "source": "fred",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "RESPPANWW",
+            "source": "fred",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "RESPPLLOPNWW",
+            "source": "fred",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "RESPPLLOPNWW",
+            "source": "fred",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "RRPONTSYAWARD",
+            "source": "fred",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "RRPONTSYAWARD",
+            "source": "fred",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "RRPONTSYD",
+            "source": "fred",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "RRPONTSYD",
+            "source": "fred",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "SNDR",
+            "source": "fred",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "SOFRINDEX",
+            "source": "fred",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "SOFRINDEX",
+            "source": "fred",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "STLFSI4",
+            "source": "fred",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "STLFSI4",
+            "source": "fred",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "SWPT",
+            "source": "fred",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "SWPT",
+            "source": "fred",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "T5YIFR",
+            "source": "fred",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "T5YIFR",
+            "source": "fred",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "USEPUINDXD",
+            "source": "fred",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "USEPUINDXD",
+            "source": "fred",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "WDTGAL",
+            "source": "fred",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "WDTGAL",
+            "source": "fred",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "WLCFLPCL",
+            "source": "fred",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "WLCFLPCL",
+            "source": "fred",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "WRBWFRBL",
+            "source": "fred",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "WRBWFRBL",
+            "source": "fred",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "WRMFNS",
+            "source": "fred",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "WRMFNS",
+            "source": "fred",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "WSHOMCB",
+            "source": "fred",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "WSHOMCB",
+            "source": "fred",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "WTREGEN",
+            "source": "fred",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "WTREGEN",
+            "source": "fred",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "KXAAAGASM-26AUG31-4.10",
+            "source": "kalshi",
+            "direction": null,
+            "resolution_date": "2026-08-31",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "KXALBERTASEPREF-26",
+            "source": "kalshi",
+            "direction": null,
+            "resolution_date": "2026-10-19",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "KXATP-26USO-SIN",
+            "source": "kalshi",
+            "direction": null,
+            "resolution_date": "2026-08-31",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "KXATTYGENWI-26-R",
+            "source": "kalshi",
+            "direction": null,
+            "resolution_date": "2026-11-04",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "KXBILLS-CHIP",
+            "source": "kalshi",
+            "direction": null,
+            "resolution_date": "2026-11-10",
+            "resolved_to": 0.37,
+            "resolved": false
+        },
+        {
+            "id": "KXBOXING-26SEP12GARCIABENN-GARCIA",
+            "source": "kalshi",
+            "direction": null,
+            "resolution_date": "2026-09-13",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "KXBRENTMON-26AUG3117-T84.99",
+            "source": "kalshi",
+            "direction": null,
+            "resolution_date": "2026-08-31",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "KXBRPRES1R-26OCT04-LSIL",
+            "source": "kalshi",
+            "direction": null,
+            "resolution_date": "2026-10-05",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "KXBULGARIAPRES-26NOV15-IYOT",
+            "source": "kalshi",
+            "direction": null,
+            "resolution_date": "2026-10-26",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "KXCABILLIONAIRETAX-26NOV03",
+            "source": "kalshi",
+            "direction": null,
+            "resolution_date": "2026-11-04",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "KXCAWEALTHTAX-26",
+            "source": "kalshi",
+            "direction": null,
+            "resolution_date": "2026-11-10",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "KXCBDECISIONJAPAN-26SEP17-H25",
+            "source": "kalshi",
+            "direction": null,
+            "resolution_date": "2026-09-18",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "KXCBDECISIONNZ-26SEP01-H25",
+            "source": "kalshi",
+            "direction": null,
+            "resolution_date": "2026-09-01",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "KXCONCACAFNL-27A-MEX",
+            "source": "kalshi",
+            "direction": null,
+            "resolution_date": "2026-11-10",
+            "resolved_to": 0.38,
+            "resolved": false
+        },
+        {
+            "id": "KXCPICOREYOY-26AUG-T2.1",
+            "source": "kalshi",
+            "direction": null,
+            "resolution_date": "2026-09-11",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "KXEMMY-VS26SEP14-TIE",
+            "source": "kalshi",
+            "direction": null,
+            "resolution_date": "2026-09-15",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "KXEXPELL-27",
+            "source": "kalshi",
+            "direction": null,
+            "resolution_date": "2026-11-10",
+            "resolved_to": 0.032,
+            "resolved": false
+        },
+        {
+            "id": "KXFED-27APR-T3.50",
+            "source": "kalshi",
+            "direction": null,
+            "resolution_date": "2026-11-10",
+            "resolved_to": 0.9400000000000001,
+            "resolved": false
+        },
+        {
+            "id": "KXFED-27APR-T3.75",
+            "source": "kalshi",
+            "direction": null,
+            "resolution_date": "2026-11-10",
+            "resolved_to": 0.9400000000000001,
+            "resolved": false
+        },
+        {
+            "id": "KXFEDCHGCOUNT-27JAN01-E0",
+            "source": "kalshi",
+            "direction": null,
+            "resolution_date": "2026-09-16",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "KXHOUSERACE-SC07-26-R",
+            "source": "kalshi",
+            "direction": null,
+            "resolution_date": "2026-11-04",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "KXINDYCARSERIES-NTTICS26-KKIR",
+            "source": "kalshi",
+            "direction": null,
+            "resolution_date": "2026-08-31",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "KXLAPRIMARY-05D26-JFLE",
+            "source": "kalshi",
+            "direction": null,
+            "resolution_date": "2026-11-03",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "KXLAYOFFSYPBS-26-5497000",
+            "source": "kalshi",
+            "direction": null,
+            "resolution_date": "2026-11-10",
+            "resolved_to": 0.42,
+            "resolved": false
+        },
+        {
+            "id": "KXLEADERMLBHITS-26-LARR",
+            "source": "kalshi",
+            "direction": null,
+            "resolution_date": "2026-09-28",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "KXLEADERMLBHITS-26-OLOP",
+            "source": "kalshi",
+            "direction": null,
+            "resolution_date": "2026-09-28",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "KXLEADERMLBHR-26-JCAM",
+            "source": "kalshi",
+            "direction": null,
+            "resolution_date": "2026-09-28",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "KXLEADERMLBKS-26-JMISIOROWSKI32",
+            "source": "kalshi",
+            "direction": null,
+            "resolution_date": "2026-09-28",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "KXLEADERMLBTRIPLES-26-CCAR",
+            "source": "kalshi",
+            "direction": null,
+            "resolution_date": "2026-09-28",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "KXLEADERMLBWINS-26-YYAM",
+            "source": "kalshi",
+            "direction": null,
+            "resolution_date": "2026-09-28",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "KXLEAGUESCUP-26-RSL",
+            "source": "kalshi",
+            "direction": null,
+            "resolution_date": "2026-09-07",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "KXLOSEPRIMARYSENATED-26NOV03-1",
+            "source": "kalshi",
+            "direction": null,
+            "resolution_date": "2026-09-16",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "KXMAYORLA-26-NRAM",
+            "source": "kalshi",
+            "direction": null,
+            "resolution_date": "2026-11-05",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "KXMIDTERMVOTETURN-CAGOV-13100000",
+            "source": "kalshi",
+            "direction": null,
+            "resolution_date": "2026-11-10",
+            "resolved_to": 0.89,
+            "resolved": false
+        },
+        {
+            "id": "KXMLBBESTRECORD-26-TB",
+            "source": "kalshi",
+            "direction": null,
+            "resolution_date": "2026-09-28",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "KXMLBWINS-STL-26-T80",
+            "source": "kalshi",
+            "direction": null,
+            "resolution_date": "2026-09-26",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "KXMLBWINS-TEX-26-T80",
+            "source": "kalshi",
+            "direction": null,
+            "resolution_date": "2026-09-27",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "KXMLBWSTREAK-26-LAD",
+            "source": "kalshi",
+            "direction": null,
+            "resolution_date": "2026-09-28",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "KXNBAEAST1SEED-26-PHI",
+            "source": "kalshi",
+            "direction": null,
+            "resolution_date": "2026-11-10",
+            "resolved_to": 0.24,
+            "resolved": false
+        },
+        {
+            "id": "KXNCAAFGAME-26SEP06LOUMISS-MISS",
+            "source": "kalshi",
+            "direction": null,
+            "resolution_date": "2026-09-07",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "KXNCAAFGAME-26SEP12OSUTEX-OSU",
+            "source": "kalshi",
+            "direction": null,
+            "resolution_date": "2026-09-13",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "KXNCAAFPLAYOFF-26-TTU",
+            "source": "kalshi",
+            "direction": null,
+            "resolution_date": "2026-11-10",
+            "resolved_to": 0.28,
+            "resolved": false
+        },
+        {
+            "id": "KXNEXTTEAMMLB-27ACHAPMAN-BOS",
+            "source": "kalshi",
+            "direction": null,
+            "resolution_date": "2026-11-10",
+            "resolved_to": 0.63,
+            "resolved": false
+        },
+        {
+            "id": "KXNFLGAME-26SEP13DALNYG-DAL",
+            "source": "kalshi",
+            "direction": null,
+            "resolution_date": "2026-09-14",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "KXNFLMVP-27-DJON",
+            "source": "kalshi",
+            "direction": null,
+            "resolution_date": "2026-11-10",
+            "resolved_to": 0.01,
+            "resolved": false
+        },
+        {
+            "id": "KXOSCARNOMACTR-27-IND",
+            "source": "kalshi",
+            "direction": null,
+            "resolution_date": "2026-11-10",
+            "resolved_to": 0.77,
+            "resolved": false
+        },
+        {
+            "id": "KXOSCARNOMDIR-27-CHRI",
+            "source": "kalshi",
+            "direction": null,
+            "resolution_date": "2026-11-10",
+            "resolved_to": 0.98,
+            "resolved": false
+        },
+        {
+            "id": "KXQUEBECASSEMBLY-26OCT05-PQ",
+            "source": "kalshi",
+            "direction": null,
+            "resolution_date": "2026-10-06",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "KXROLEINPRODUCTIONLI-27JUL31-ARI",
+            "source": "kalshi",
+            "direction": null,
+            "resolution_date": "2026-09-04",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "KXSP500ADDQ-26SEP30-BE",
+            "source": "kalshi",
+            "direction": null,
+            "resolution_date": "2026-09-08",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "KXSPACEXCOUNT-26AUG-14",
+            "source": "kalshi",
+            "direction": null,
+            "resolution_date": "2026-09-01",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "KXTRUMPAPPROVALBELOW-26DEC31-36",
+            "source": "kalshi",
+            "direction": null,
+            "resolution_date": "2026-11-10",
+            "resolved_to": 0.62,
+            "resolved": false
+        },
+        {
+            "id": "KXU3-26AUG-T4.0",
+            "source": "kalshi",
+            "direction": null,
+            "resolution_date": "2026-09-04",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "KXUSGDPSHARE-27JUL01-T25.1",
+            "source": "kalshi",
+            "direction": null,
+            "resolution_date": "2026-11-10",
+            "resolved_to": 0.99,
+            "resolved": false
+        },
+        {
+            "id": "KXWTI-26NOV03-T106.99",
+            "source": "kalshi",
+            "direction": null,
+            "resolution_date": "2026-11-03",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "17bOVCJRzRlMUjcG9rsW",
+            "source": "manifold",
+            "direction": null,
+            "resolution_date": "2026-11-10",
+            "resolved_to": 0.050886222700000004,
+            "resolved": false
+        },
+        {
+            "id": "2ht096cAIg",
+            "source": "manifold",
+            "direction": null,
+            "resolution_date": "2026-11-10",
+            "resolved_to": 0.47089454100000006,
+            "resolved": false
+        },
+        {
+            "id": "5LPnglRlIO",
+            "source": "manifold",
+            "direction": null,
+            "resolution_date": "2026-11-10",
+            "resolved_to": 0.3012027746,
+            "resolved": false
+        },
+        {
+            "id": "5S9cqIC0nZ",
+            "source": "manifold",
+            "direction": null,
+            "resolution_date": "2026-11-10",
+            "resolved_to": 0.07209803690000001,
+            "resolved": false
+        },
+        {
+            "id": "5Y59hNlaYhNNA4PGaTD2",
+            "source": "manifold",
+            "direction": null,
+            "resolution_date": "2026-11-10",
+            "resolved_to": 0.9760922894,
+            "resolved": false
+        },
+        {
+            "id": "5wTpwmgibU6SA7nFkLnT",
+            "source": "manifold",
+            "direction": null,
+            "resolution_date": "2026-11-10",
+            "resolved_to": 0.8362400478,
+            "resolved": false
+        },
+        {
+            "id": "6pqRtydqtP",
+            "source": "manifold",
+            "direction": null,
+            "resolution_date": "2026-09-17",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "6puUnhps8E",
+            "source": "manifold",
+            "direction": null,
+            "resolution_date": "2026-11-10",
+            "resolved_to": 0.1004899021,
+            "resolved": false
+        },
+        {
+            "id": "6sR508pyy0",
+            "source": "manifold",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "7lBUKt5xj8T6QKXmhVTf",
+            "source": "manifold",
+            "direction": null,
+            "resolution_date": "2026-11-10",
+            "resolved_to": 0.155975687,
+            "resolved": false
+        },
+        {
+            "id": "8A09uQ0quC",
+            "source": "manifold",
+            "direction": null,
+            "resolution_date": "2026-11-10",
+            "resolved_to": 0.0790754286,
+            "resolved": false
+        },
+        {
+            "id": "8kCGUb6xSK9crajdUeSI",
+            "source": "manifold",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "9KWkWMGY9Sq45x90DJRU",
+            "source": "manifold",
+            "direction": null,
+            "resolution_date": "2026-11-10",
+            "resolved_to": 0.3239600604,
+            "resolved": false
+        },
+        {
+            "id": "9OgZp6uC95",
+            "source": "manifold",
+            "direction": null,
+            "resolution_date": "2026-11-10",
+            "resolved_to": 0.40814659940000003,
+            "resolved": false
+        },
+        {
+            "id": "ANNLIPZNAS",
+            "source": "manifold",
+            "direction": null,
+            "resolution_date": "2026-11-10",
+            "resolved_to": 0.4260264325,
+            "resolved": false
+        },
+        {
+            "id": "AUzQClL5qt",
+            "source": "manifold",
+            "direction": null,
+            "resolution_date": "2026-11-10",
+            "resolved_to": 0.8121490085,
+            "resolved": false
+        },
+        {
+            "id": "Ayls9lZ02S",
+            "source": "manifold",
+            "direction": null,
+            "resolution_date": "2026-11-10",
+            "resolved_to": 0.11621400920000001,
+            "resolved": false
+        },
+        {
+            "id": "Bn76fB9rYXMkHsbCs9kZ",
+            "source": "manifold",
+            "direction": null,
+            "resolution_date": "2026-11-03",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "BrLrD0Fl56lfcJvBlalP",
+            "source": "manifold",
+            "direction": null,
+            "resolution_date": "2026-11-10",
+            "resolved_to": 0.1618136608,
+            "resolved": false
+        },
+        {
+            "id": "Ch0ACIl8lC",
+            "source": "manifold",
+            "direction": null,
+            "resolution_date": "2026-09-30",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "Gew5KFUbMQ9NVM8cOQO9",
+            "source": "manifold",
+            "direction": null,
+            "resolution_date": "2026-11-10",
+            "resolved_to": 0.2888002148,
+            "resolved": false
+        },
+        {
+            "id": "Gk0rSk3vqy1RvqQn9smz",
+            "source": "manifold",
+            "direction": null,
+            "resolution_date": "2026-11-10",
+            "resolved_to": 0.8158255861,
+            "resolved": false
+        },
+        {
+            "id": "HxnNfufb0ENJcC3xGiIT",
+            "source": "manifold",
+            "direction": null,
+            "resolution_date": "2026-11-10",
+            "resolved_to": 0.8735853123,
+            "resolved": false
+        },
+        {
+            "id": "I8dZ2pp0lO",
+            "source": "manifold",
+            "direction": null,
+            "resolution_date": "2026-09-21",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "IRZAECmGlYS6noUSasoz",
+            "source": "manifold",
+            "direction": null,
+            "resolution_date": "2026-11-10",
+            "resolved_to": 0.7081762418,
+            "resolved": false
+        },
+        {
+            "id": "L8EuhySAdp",
+            "source": "manifold",
+            "direction": null,
+            "resolution_date": "2026-11-10",
+            "resolved_to": 0.9228319890000001,
+            "resolved": false
+        },
+        {
+            "id": "MrSoz15sYBHcbsTThPJJ",
+            "source": "manifold",
+            "direction": null,
+            "resolution_date": "2026-11-10",
+            "resolved_to": 0.5302192629,
+            "resolved": false
+        },
+        {
+            "id": "OgUy9yu6Zy",
+            "source": "manifold",
+            "direction": null,
+            "resolution_date": "2026-11-10",
+            "resolved_to": 0.0523598035,
+            "resolved": false
+        },
+        {
+            "id": "OuQIQtgL0g",
+            "source": "manifold",
+            "direction": null,
+            "resolution_date": "2026-10-11",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "Rf7QcqwwdfxErgLeI4z1",
+            "source": "manifold",
+            "direction": null,
+            "resolution_date": "2026-11-10",
+            "resolved_to": 0.08086983240000001,
+            "resolved": false
+        },
+        {
+            "id": "RhECyzlsAy",
+            "source": "manifold",
+            "direction": null,
+            "resolution_date": "2026-11-10",
+            "resolved_to": 0.0995023168,
+            "resolved": false
+        },
+        {
+            "id": "SAIUNdCI8U",
+            "source": "manifold",
+            "direction": null,
+            "resolution_date": "2026-11-10",
+            "resolved_to": 0.2223505891,
+            "resolved": false
+        },
+        {
+            "id": "SRAIlISySP",
+            "source": "manifold",
+            "direction": null,
+            "resolution_date": "2026-10-08",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "SZsB1qAWRIePvv49d51f",
+            "source": "manifold",
+            "direction": null,
+            "resolution_date": "2026-11-10",
+            "resolved_to": 0.18075838930000002,
+            "resolved": false
+        },
+        {
+            "id": "UsyCqAyEpP",
+            "source": "manifold",
+            "direction": null,
+            "resolution_date": "2026-11-01",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "VW7aefNf5ACqCbqrGzlm",
+            "source": "manifold",
+            "direction": null,
+            "resolution_date": "2026-11-10",
+            "resolved_to": 0.2362271199,
+            "resolved": false
+        },
+        {
+            "id": "ZZLRuEZpZl",
+            "source": "manifold",
+            "direction": null,
+            "resolution_date": "2026-11-10",
+            "resolved_to": 0.1245920771,
+            "resolved": false
+        },
+        {
+            "id": "a86n8pc6e3",
+            "source": "manifold",
+            "direction": null,
+            "resolution_date": "2026-11-04",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "biXq0Tl6I185ivohSgoV",
+            "source": "manifold",
+            "direction": null,
+            "resolution_date": "2026-11-10",
+            "resolved_to": 0.7733510282,
+            "resolved": false
+        },
+        {
+            "id": "cSAh00sC2d",
+            "source": "manifold",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "cd5hUN9EZO",
+            "source": "manifold",
+            "direction": null,
+            "resolution_date": "2026-09-04",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "d9h9uNSRpL",
+            "source": "manifold",
+            "direction": null,
+            "resolution_date": "2026-11-10",
+            "resolved_to": 0.1289096067,
+            "resolved": false
+        },
+        {
+            "id": "dCP8cP0CLL",
+            "source": "manifold",
+            "direction": null,
+            "resolution_date": "2026-08-31",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "dSaVvMLpLbwaLLUGfGfK",
+            "source": "manifold",
+            "direction": null,
+            "resolution_date": "2026-11-03",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "g4qkq9edww",
+            "source": "manifold",
+            "direction": null,
+            "resolution_date": "2026-11-10",
+            "resolved_to": 0.056675653900000005,
+            "resolved": false
+        },
+        {
+            "id": "h8nzsLSnUl",
+            "source": "manifold",
+            "direction": null,
+            "resolution_date": "2026-11-10",
+            "resolved_to": 0.3111150608,
+            "resolved": false
+        },
+        {
+            "id": "hdkdqdc31x",
+            "source": "manifold",
+            "direction": null,
+            "resolution_date": "2026-11-10",
+            "resolved_to": 0.034333513100000004,
+            "resolved": false
+        },
+        {
+            "id": "hnuCnLAIsu",
+            "source": "manifold",
+            "direction": null,
+            "resolution_date": "2026-08-31",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "jXtkHkERT7d0JdKUPHV3",
+            "source": "manifold",
+            "direction": null,
+            "resolution_date": "2026-11-10",
+            "resolved_to": 0.9457220167,
+            "resolved": false
+        },
+        {
+            "id": "jtZoCx0aV7i5RSEyiwe8",
+            "source": "manifold",
+            "direction": null,
+            "resolution_date": "2026-11-10",
+            "resolved_to": 0.6164904824,
+            "resolved": false
+        },
+        {
+            "id": "k3SOdZZ2KH9rIFjIxCQk",
+            "source": "manifold",
+            "direction": null,
+            "resolution_date": "2026-11-10",
+            "resolved_to": 0.1398786185,
+            "resolved": false
+        },
+        {
+            "id": "lXpMwVvmJliAiUKJXWUE",
+            "source": "manifold",
+            "direction": null,
+            "resolution_date": "2026-11-10",
+            "resolved_to": 0.3109307309,
+            "resolved": false
+        },
+        {
+            "id": "nyyupACZLR",
+            "source": "manifold",
+            "direction": null,
+            "resolution_date": "2026-11-10",
+            "resolved_to": 0.3775235961,
+            "resolved": false
+        },
+        {
+            "id": "qPBliCK2V0FQg6bQPxK8",
+            "source": "manifold",
+            "direction": null,
+            "resolution_date": "2026-11-10",
+            "resolved_to": 0.0696727434,
+            "resolved": false
+        },
+        {
+            "id": "r9WBbcLqWc5kMOE2mLDL",
+            "source": "manifold",
+            "direction": null,
+            "resolution_date": "2026-11-10",
+            "resolved_to": 0.1214213063,
+            "resolved": false
+        },
+        {
+            "id": "sE0nnPpuh8",
+            "source": "manifold",
+            "direction": null,
+            "resolution_date": "2026-11-10",
+            "resolved_to": 0.0100780596,
+            "resolved": false
+        },
+        {
+            "id": "spuyq56Py5",
+            "source": "manifold",
+            "direction": null,
+            "resolution_date": "2026-09-23",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "tCgO9uL0ql",
+            "source": "manifold",
+            "direction": null,
+            "resolution_date": "2026-11-10",
+            "resolved_to": 0.1632968858,
+            "resolved": false
+        },
+        {
+            "id": "tuzhIR9Qh8",
+            "source": "manifold",
+            "direction": null,
+            "resolution_date": "2026-11-03",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "uISNlAqC2E",
+            "source": "manifold",
+            "direction": null,
+            "resolution_date": "2026-11-04",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "y9AqUIq0Cz",
+            "source": "manifold",
+            "direction": null,
+            "resolution_date": "2026-11-10",
+            "resolved_to": 0.0882386532,
+            "resolved": false
+        },
+        {
+            "id": "zIdESLd8d2",
+            "source": "manifold",
+            "direction": null,
+            "resolution_date": "2026-08-31",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "zl9pyIShlP",
+            "source": "manifold",
+            "direction": null,
+            "resolution_date": "2026-11-10",
+            "resolved_to": 0.45654544620000004,
+            "resolved": false
+        },
+        {
+            "id": "11045",
+            "source": "metaculus",
+            "direction": null,
+            "resolution_date": "2026-11-10",
+            "resolved_to": 0.63,
+            "resolved": false
+        },
+        {
+            "id": "12298",
+            "source": "metaculus",
+            "direction": null,
+            "resolution_date": "2026-11-10",
+            "resolved_to": 0.375,
+            "resolved": false
+        },
+        {
+            "id": "1385",
+            "source": "metaculus",
+            "direction": null,
+            "resolution_date": "2026-11-10",
+            "resolved_to": 0.1,
+            "resolved": false
+        },
+        {
+            "id": "15134",
+            "source": "metaculus",
+            "direction": null,
+            "resolution_date": "2026-11-10",
+            "resolved_to": 0.2,
+            "resolved": false
+        },
+        {
+            "id": "15492",
+            "source": "metaculus",
+            "direction": null,
+            "resolution_date": "2026-11-10",
+            "resolved_to": 0.276,
+            "resolved": false
+        },
+        {
+            "id": "18258",
+            "source": "metaculus",
+            "direction": null,
+            "resolution_date": "2026-11-10",
+            "resolved_to": 0.052000000000000005,
+            "resolved": false
+        },
+        {
+            "id": "20169",
+            "source": "metaculus",
+            "direction": null,
+            "resolution_date": "2026-11-10",
+            "resolved_to": 0.21,
+            "resolved": false
+        },
+        {
+            "id": "22310",
+            "source": "metaculus",
+            "direction": null,
+            "resolution_date": "2026-10-03",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "28683",
+            "source": "metaculus",
+            "direction": null,
+            "resolution_date": "2026-11-10",
+            "resolved_to": 0.52,
+            "resolved": false
+        },
+        {
+            "id": "34504",
+            "source": "metaculus",
+            "direction": null,
+            "resolution_date": "2026-11-10",
+            "resolved_to": 0.9,
+            "resolved": false
+        },
+        {
+            "id": "36461",
+            "source": "metaculus",
+            "direction": null,
+            "resolution_date": "2026-11-10",
+            "resolved_to": 0.01,
+            "resolved": false
+        },
+        {
+            "id": "36478",
+            "source": "metaculus",
+            "direction": null,
+            "resolution_date": "2026-11-10",
+            "resolved_to": 0.76,
+            "resolved": false
+        },
+        {
+            "id": "38209",
+            "source": "metaculus",
+            "direction": null,
+            "resolution_date": "2026-11-04",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "38405",
+            "source": "metaculus",
+            "direction": null,
+            "resolution_date": "2026-11-10",
+            "resolved_to": 0.8,
+            "resolved": false
+        },
+        {
+            "id": "38950",
+            "source": "metaculus",
+            "direction": null,
+            "resolution_date": "2026-11-10",
+            "resolved_to": 0.51,
+            "resolved": false
+        },
+        {
+            "id": "38957",
+            "source": "metaculus",
+            "direction": null,
+            "resolution_date": "2026-11-10",
+            "resolved_to": 0.525,
+            "resolved": false
+        },
+        {
+            "id": "39128",
+            "source": "metaculus",
+            "direction": null,
+            "resolution_date": "2026-11-10",
+            "resolved_to": 0.65,
+            "resolved": false
+        },
+        {
+            "id": "40289",
+            "source": "metaculus",
+            "direction": null,
+            "resolution_date": "2026-11-10",
+            "resolved_to": 0.2,
+            "resolved": false
+        },
+        {
+            "id": "40767",
+            "source": "metaculus",
+            "direction": null,
+            "resolution_date": "2026-11-10",
+            "resolved_to": 0.1,
+            "resolved": false
+        },
+        {
+            "id": "41155",
+            "source": "metaculus",
+            "direction": null,
+            "resolution_date": "2026-11-10",
+            "resolved_to": 0.07,
+            "resolved": false
+        },
+        {
+            "id": "41193",
+            "source": "metaculus",
+            "direction": null,
+            "resolution_date": "2026-11-10",
+            "resolved_to": 0.1,
+            "resolved": false
+        },
+        {
+            "id": "41214",
+            "source": "metaculus",
+            "direction": null,
+            "resolution_date": "2026-10-05",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "41365",
+            "source": "metaculus",
+            "direction": null,
+            "resolution_date": "2026-11-10",
+            "resolved_to": 0.23,
+            "resolved": false
+        },
+        {
+            "id": "41481",
+            "source": "metaculus",
+            "direction": null,
+            "resolution_date": "2026-11-05",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "41804",
+            "source": "metaculus",
+            "direction": null,
+            "resolution_date": "2026-10-10",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "41890",
+            "source": "metaculus",
+            "direction": null,
+            "resolution_date": "2026-11-10",
+            "resolved_to": 0.08,
+            "resolved": false
+        },
+        {
+            "id": "42033",
+            "source": "metaculus",
+            "direction": null,
+            "resolution_date": "2026-11-10",
+            "resolved_to": 0.25,
+            "resolved": false
+        },
+        {
+            "id": "42034",
+            "source": "metaculus",
+            "direction": null,
+            "resolution_date": "2026-11-10",
+            "resolved_to": 0.25,
+            "resolved": false
+        },
+        {
+            "id": "42517",
+            "source": "metaculus",
+            "direction": null,
+            "resolution_date": "2026-11-10",
+            "resolved_to": 0.9500000000000001,
+            "resolved": false
+        },
+        {
+            "id": "42666",
+            "source": "metaculus",
+            "direction": null,
+            "resolution_date": "2026-11-10",
+            "resolved_to": 0.05,
+            "resolved": false
+        },
+        {
+            "id": "42741",
+            "source": "metaculus",
+            "direction": null,
+            "resolution_date": "2026-09-28",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "42827",
+            "source": "metaculus",
+            "direction": null,
+            "resolution_date": "2026-11-10",
+            "resolved_to": 0.9500000000000001,
+            "resolved": false
+        },
+        {
+            "id": "42840",
+            "source": "metaculus",
+            "direction": null,
+            "resolution_date": "2026-11-10",
+            "resolved_to": 0.01,
+            "resolved": false
+        },
+        {
+            "id": "43274",
+            "source": "metaculus",
+            "direction": null,
+            "resolution_date": "2026-11-10",
+            "resolved_to": 0.78,
+            "resolved": false
+        },
+        {
+            "id": "43316",
+            "source": "metaculus",
+            "direction": null,
+            "resolution_date": "2026-11-10",
+            "resolved_to": 0.15,
+            "resolved": false
+        },
+        {
+            "id": "43452",
+            "source": "metaculus",
+            "direction": null,
+            "resolution_date": "2026-09-30",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "43490",
+            "source": "metaculus",
+            "direction": null,
+            "resolution_date": "2026-11-03",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "43527",
+            "source": "metaculus",
+            "direction": null,
+            "resolution_date": "2026-09-02",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "43609",
+            "source": "metaculus",
+            "direction": null,
+            "resolution_date": "2026-11-01",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "43637",
+            "source": "metaculus",
+            "direction": null,
+            "resolution_date": "2026-10-19",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "43839",
+            "source": "metaculus",
+            "direction": null,
+            "resolution_date": "2026-11-10",
+            "resolved_to": 0.5,
+            "resolved": false
+        },
+        {
+            "id": "43885",
+            "source": "metaculus",
+            "direction": null,
+            "resolution_date": "2026-11-10",
+            "resolved_to": 0.999,
+            "resolved": false
+        },
+        {
+            "id": "43912",
+            "source": "metaculus",
+            "direction": null,
+            "resolution_date": "2026-11-10",
+            "resolved_to": 0.2,
+            "resolved": false
+        },
+        {
+            "id": "43980",
+            "source": "metaculus",
+            "direction": null,
+            "resolution_date": "2026-11-10",
+            "resolved_to": 0.16,
+            "resolved": false
+        },
+        {
+            "id": "44153",
+            "source": "metaculus",
+            "direction": null,
+            "resolution_date": "2026-11-10",
+            "resolved_to": 0.026000000000000002,
+            "resolved": false
+        },
+        {
+            "id": "44176",
+            "source": "metaculus",
+            "direction": null,
+            "resolution_date": "2026-11-10",
+            "resolved_to": 0.39,
+            "resolved": false
+        },
+        {
+            "id": "44191",
+            "source": "metaculus",
+            "direction": null,
+            "resolution_date": "2026-11-10",
+            "resolved_to": 0.25,
+            "resolved": false
+        },
+        {
+            "id": "44236",
+            "source": "metaculus",
+            "direction": null,
+            "resolution_date": "2026-11-10",
+            "resolved_to": 0.8200000000000001,
+            "resolved": false
+        },
+        {
+            "id": "44364",
+            "source": "metaculus",
+            "direction": null,
+            "resolution_date": "2026-11-10",
+            "resolved_to": 0.25,
+            "resolved": false
+        },
+        {
+            "id": "44414",
+            "source": "metaculus",
+            "direction": null,
+            "resolution_date": "2026-08-31",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "44448",
+            "source": "metaculus",
+            "direction": null,
+            "resolution_date": "2026-08-31",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "44513",
+            "source": "metaculus",
+            "direction": null,
+            "resolution_date": "2026-08-31",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "44553",
+            "source": "metaculus",
+            "direction": null,
+            "resolution_date": "2026-10-15",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "44925",
+            "source": "metaculus",
+            "direction": null,
+            "resolution_date": "2026-09-01",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "44986",
+            "source": "metaculus",
+            "direction": null,
+            "resolution_date": "2026-08-31",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "45008",
+            "source": "metaculus",
+            "direction": null,
+            "resolution_date": "2026-11-10",
+            "resolved_to": 0.08,
+            "resolved": false
+        },
+        {
+            "id": "6462",
+            "source": "metaculus",
+            "direction": null,
+            "resolution_date": "2026-11-10",
+            "resolved_to": 0.02,
+            "resolved": false
+        },
+        {
+            "id": "7316",
+            "source": "metaculus",
+            "direction": null,
+            "resolution_date": "2026-11-10",
+            "resolved_to": 0.58,
+            "resolved": false
+        },
+        {
+            "id": "7819",
+            "source": "metaculus",
+            "direction": null,
+            "resolution_date": "2026-11-10",
+            "resolved_to": 0.139,
+            "resolved": false
+        },
+        {
+            "id": "8408",
+            "source": "metaculus",
+            "direction": null,
+            "resolution_date": "2026-11-10",
+            "resolved_to": 0.30000000000000004,
+            "resolved": false
+        },
+        {
+            "id": "8602",
+            "source": "metaculus",
+            "direction": null,
+            "resolution_date": "2026-11-10",
+            "resolved_to": 0.54,
+            "resolved": false
+        },
+        {
+            "id": "0x023a8c2fd2a78c29c9748a44205e2cbe624d86c11ee41b81d4067ddbbf2a135f",
+            "source": "polymarket",
+            "direction": null,
+            "resolution_date": "2026-10-05",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "0x0eac20f7ed673d0e99385158ea468f6540aa208abefb74613f8170c2f9909e53",
+            "source": "polymarket",
+            "direction": null,
+            "resolution_date": "2026-10-04",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "0x0fe474e15375c731a7daa6647f456a387bfd65bf8284cd29aaddfb5372557585",
+            "source": "polymarket",
+            "direction": null,
+            "resolution_date": "2026-10-01",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "0x190ac165e768e2f4169e79874d7671edd551c4c0a6ab4d4f07f16a2cae903f3b",
+            "source": "polymarket",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "0x1ad95f1438bee633474739d466621d9c57dccb6ae971a39fa6d38313c915769b",
+            "source": "polymarket",
+            "direction": null,
+            "resolution_date": "2026-09-23",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "0x1b56e46dba9e7b2bf93db18e7a79de3f97037314a46f8ebc93b541ae5f396200",
+            "source": "polymarket",
+            "direction": null,
+            "resolution_date": "2026-09-16",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "0x1d4d4b7b17f1649e5a902a91992476263b1be640df547540cf2954bd00df4df8",
+            "source": "polymarket",
+            "direction": null,
+            "resolution_date": "2026-10-18",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "0x22b45f5a1fa6e1375712b79a28a7fbc18d0ec94fc9b262e15b85f66d68e1e52c",
+            "source": "polymarket",
+            "direction": null,
+            "resolution_date": "2026-11-10",
+            "resolved_to": 0.055,
+            "resolved": false
+        },
+        {
+            "id": "0x2f112a1cd954debe3438caac411ca4395cc53be0e1580a5802ab42618b94aff7",
+            "source": "polymarket",
+            "direction": null,
+            "resolution_date": "2026-09-25",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "0x2fbe9fc729efe57573097006d0be63d7e30d7db54f91b598e23d3b58374adb45",
+            "source": "polymarket",
+            "direction": null,
+            "resolution_date": "2026-11-10",
+            "resolved_to": 0.095,
+            "resolved": false
+        },
+        {
+            "id": "0x34918035a590555ba1fb1d6a019d766ab6e557d63e7f3140b63b4550eee7f417",
+            "source": "polymarket",
+            "direction": null,
+            "resolution_date": "2026-11-04",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "0x409d7e08b28d9b828fd71478c470055da1be83e55435edc569427cd9e300e161",
+            "source": "polymarket",
+            "direction": null,
+            "resolution_date": "2026-11-10",
+            "resolved_to": 0.855,
+            "resolved": false
+        },
+        {
+            "id": "0x485662cfac30967d8103557e16a77cfaca40096182d4cc470f07b5ef01f1ff0e",
+            "source": "polymarket",
+            "direction": null,
+            "resolution_date": "2026-09-13",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "0x4ba91369e8319cd3a3d54681eb07ff19a9afd5ebcdb179867f560866e736fe67",
+            "source": "polymarket",
+            "direction": null,
+            "resolution_date": "2026-10-05",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "0x4d79d3068bdc6bbb2101462561d64c54773947d9c776d1ad637655c60ecbe5b9",
+            "source": "polymarket",
+            "direction": null,
+            "resolution_date": "2026-08-31",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "0x51e241e5cdc5cd2f6ff8fa1bd444cd4751a35f1097ac3fa97711479795ae264c",
+            "source": "polymarket",
+            "direction": null,
+            "resolution_date": "2026-11-10",
+            "resolved_to": 0.08,
+            "resolved": false
+        },
+        {
+            "id": "0x524ce344b80a160c237d91a33efdd8b82468b0dc0d33f60d500f8bf69b80b8bb",
+            "source": "polymarket",
+            "direction": null,
+            "resolution_date": "2026-09-30",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "0x5290e1debd1d164f7828f32c9da7747018462293928a8624e27a070b7255f1f1",
+            "source": "polymarket",
+            "direction": null,
+            "resolution_date": "2026-11-10",
+            "resolved_to": 0.875,
+            "resolved": false
+        },
+        {
+            "id": "0x5418339990df624d3dab616d24b999b1b2adc81d5188c3291c4abcba3edd3e52",
+            "source": "polymarket",
+            "direction": null,
+            "resolution_date": "2026-09-24",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "0x55937e321733f53af84a7c74884fc86801b97def5b14be888250e7d5057f4be8",
+            "source": "polymarket",
+            "direction": null,
+            "resolution_date": "2026-08-31",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "0x574baadddd5ff73355480351a6b067f762d4ad18ffdd619aa99253820b691845",
+            "source": "polymarket",
+            "direction": null,
+            "resolution_date": "2026-10-18",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "0x58d5cc2bf06a3289b127049239aee051f3b941f219efebbca02d3f50f0eb2a64",
+            "source": "polymarket",
+            "direction": null,
+            "resolution_date": "2026-11-10",
+            "resolved_to": 0.455,
+            "resolved": false
+        },
+        {
+            "id": "0x5d02cb8ef8fe6c50dd2d58283dfe5742b4f13cfa5acbaa4b75dc25a438c6594d",
+            "source": "polymarket",
+            "direction": null,
+            "resolution_date": "2026-09-24",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "0x5d52fd8e215a7ac609d4af5da9dcf752e9e6b4fc2b47482c246d51c8aa8e9280",
+            "source": "polymarket",
+            "direction": null,
+            "resolution_date": "2026-11-04",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "0x684e5b72d4e407695397a79ed75ef37273c2655ca2548791a4153233d3744696",
+            "source": "polymarket",
+            "direction": null,
+            "resolution_date": "2026-11-10",
+            "resolved_to": 0.17500000000000002,
+            "resolved": false
+        },
+        {
+            "id": "0x6c8bc8cd9b2d64358ad995ccee8e998cf0f81a89c4be0b8e51eadf09c6be60ba",
+            "source": "polymarket",
+            "direction": null,
+            "resolution_date": "2026-11-10",
+            "resolved_to": 0.225,
+            "resolved": false
+        },
+        {
+            "id": "0x707ca13ce9038662dcea98e2b87ffceb55c7dbe6c73a864a3ad04c1d6716f5ee",
+            "source": "polymarket",
+            "direction": null,
+            "resolution_date": "2026-10-05",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "0x71c05b735300b6087ff5588bcc7e83fecf009293d794f613c63c92ea8a16fb2b",
+            "source": "polymarket",
+            "direction": null,
+            "resolution_date": "2026-11-04",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "0x83030b249525db4c0bcd83a915776442f4ea32d2fba10825fca4abeb51512d8f",
+            "source": "polymarket",
+            "direction": null,
+            "resolution_date": "2026-10-05",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "0x888a5a06d9d4d27167bc1a68ff0e42041ea6dd8ea23cf68634347fcbdade2896",
+            "source": "polymarket",
+            "direction": null,
+            "resolution_date": "2026-11-10",
+            "resolved_to": 0.19,
+            "resolved": false
+        },
+        {
+            "id": "0x8cf6dcc31f5f65f4fb329fe4d24fcac0ae56e824253937fa4861c450a0c0f1e6",
+            "source": "polymarket",
+            "direction": null,
+            "resolution_date": "2026-10-05",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "0x93897d7b3c157488d634a23c538b6540a181a91e249c863df9b0b0a8fab65405",
+            "source": "polymarket",
+            "direction": null,
+            "resolution_date": "2026-10-05",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "0x94758b948da26cf46855565f65be7f58574db4b235096615811b9601ebe736a6",
+            "source": "polymarket",
+            "direction": null,
+            "resolution_date": "2026-11-10",
+            "resolved_to": 0.7045,
+            "resolved": false
+        },
+        {
+            "id": "0x987353ac24f5e3164099f2d24d52a8ceae44a7c308986f9d67d69c80f7657b31",
+            "source": "polymarket",
+            "direction": null,
+            "resolution_date": "2026-11-04",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "0x9a3ff64dc7b27e7f084e9e87a23bd02d5299fd102108f370a58fcbac51963dc4",
+            "source": "polymarket",
+            "direction": null,
+            "resolution_date": "2026-08-31",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "0xa74ddc3ce66416b679703e087afd5d2047a58a2974d7730cab76a0176eda6933",
+            "source": "polymarket",
+            "direction": null,
+            "resolution_date": "2026-11-10",
+            "resolved_to": 0.9935,
+            "resolved": false
+        },
+        {
+            "id": "0xab26781b356d49df837434ae201761c5ad232b9607fce21c6bf45adf8cfd657b",
+            "source": "polymarket",
+            "direction": null,
+            "resolution_date": "2026-11-10",
+            "resolved_to": 0.006,
+            "resolved": false
+        },
+        {
+            "id": "0xad485c0cfb6058e791ffd719ee3a99bf8ea241975704b5960041ec0fe017dadf",
+            "source": "polymarket",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "0xb120cb1c26ad4568844f8e7ee7a91487d5cf4d246fd40410c1f3d4061bfd3587",
+            "source": "polymarket",
+            "direction": null,
+            "resolution_date": "2026-11-10",
+            "resolved_to": 0.0005,
+            "resolved": false
+        },
+        {
+            "id": "0xb5395470c9b87f5ae8ffc719c1376aa89b493adf083e01cb8064e683fbaa18fc",
+            "source": "polymarket",
+            "direction": null,
+            "resolution_date": "2026-11-10",
+            "resolved_to": 0.07050000000000001,
+            "resolved": false
+        },
+        {
+            "id": "0xbb9450c639a6cff45852a72f736ad87bd7937bb6c32a5188951c384044db7a3e",
+            "source": "polymarket",
+            "direction": null,
+            "resolution_date": "2026-10-05",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "0xbe97f7a4f393291ea2c54425f32949167cb12f6955f33ec7b68901aa93285718",
+            "source": "polymarket",
+            "direction": null,
+            "resolution_date": "2026-11-10",
+            "resolved_to": 0.894,
+            "resolved": false
+        },
+        {
+            "id": "0xc0986d59c913ffbf40a94966e77829ecffe3e0e5bb287713bce5715841409031",
+            "source": "polymarket",
+            "direction": null,
+            "resolution_date": "2026-09-13",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "0xc2b70578ae7eb69410a2308fe40baa136b070f23ea5bbdcdf68ecf163f543706",
+            "source": "polymarket",
+            "direction": null,
+            "resolution_date": "2026-09-21",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "0xc372e84c849b4756059daec6b37d45b4925be8363487a6db354e4c4e1841ebed",
+            "source": "polymarket",
+            "direction": null,
+            "resolution_date": "2026-11-10",
+            "resolved_to": 0.8300000000000001,
+            "resolved": false
+        },
+        {
+            "id": "0xc3d5708780de5528998aeb53ca90e7ade64804f9f2386392a681435d5c42b44d",
+            "source": "polymarket",
+            "direction": null,
+            "resolution_date": "2026-10-31",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "0xc4aaf626324e7fb7c855e5190336de1ecae44fcb77a3e13a962cff0420478827",
+            "source": "polymarket",
+            "direction": null,
+            "resolution_date": "2026-10-27",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "0xcf4cf0cf9882b50018054826d561f688e319e6e51de956437fa6dbf642696a40",
+            "source": "polymarket",
+            "direction": null,
+            "resolution_date": "2026-09-09",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "0xd26b77ef190c1a08187b735632b79b9a290f0562e784f4dd756080349badc303",
+            "source": "polymarket",
+            "direction": null,
+            "resolution_date": "2026-11-10",
+            "resolved_to": 0.4,
+            "resolved": false
+        },
+        {
+            "id": "0xd63e1e2db811ba09972cbac9810edcca72ffdc1d195c03547ac0be2fb7a3c3d7",
+            "source": "polymarket",
+            "direction": null,
+            "resolution_date": "2026-10-28",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "0xd90cee5beead944e744381e3c16ef18e384c25bb130f7e46615b17e1b33b78d3",
+            "source": "polymarket",
+            "direction": null,
+            "resolution_date": "2026-11-10",
+            "resolved_to": 0.6785,
+            "resolved": false
+        },
+        {
+            "id": "0xd961e85c58d27699749eaa069e629519e2f4af701a7c2a02a486dca77e101fdc",
+            "source": "polymarket",
+            "direction": null,
+            "resolution_date": "2026-11-10",
+            "resolved_to": 0.055,
+            "resolved": false
+        },
+        {
+            "id": "0xf0fea3e65bc38234d0c195f09028d871be4e73d21874154cabbcf4b0e9d82414",
+            "source": "polymarket",
+            "direction": null,
+            "resolution_date": "2026-11-10",
+            "resolved_to": 0.5245000000000001,
+            "resolved": false
+        },
+        {
+            "id": "0xf2370dfdc94d70a4e503ac3e2cf2f4c0e8de1aeebf98e872a55200cdddfe8dfc",
+            "source": "polymarket",
+            "direction": null,
+            "resolution_date": "2026-10-05",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "0xf5ecb2721c35e4f94fdeab3a4c79fce590a2275301c35843f83cfb14cbb57f14",
+            "source": "polymarket",
+            "direction": null,
+            "resolution_date": "2026-10-05",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "0xf9c12aa09c5317d1cf8d26d0dc100a69ecf70e5132e81ef078d5336f63923b5e",
+            "source": "polymarket",
+            "direction": null,
+            "resolution_date": "2026-09-27",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "0xfed2dd1e83691ca08b8bc08d2bed09cb19003730f2be47da6a467ee37df96fbb",
+            "source": "polymarket",
+            "direction": null,
+            "resolution_date": "2026-11-10",
+            "resolved_to": 0.085,
+            "resolved": false
+        },
+        {
+            "id": "0xfee11055c350d06a6165f39cee89aed0614bfb8dc121cafe6ac1a9a56ce60592",
+            "source": "polymarket",
+            "direction": null,
+            "resolution_date": "2026-09-01",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "0xffc0030fa887b259b313f7a695e34ce8776fdf1b674d1d7812f0e31782c3aca0",
+            "source": "polymarket",
+            "direction": null,
+            "resolution_date": "2026-11-04",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "5d675aaaef89c7e9b340de20f164638503d97a39dcac53d5db6762f613f2c591",
+            "source": "wikipedia",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "15a2309ff037755f0cfaabde0da65f0a646573fb07183b089529109298a8d195",
+            "source": "wikipedia",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "76eefc47356f6f8254bbc134dc46e8127fca413bb79a551af09a829cfb2603b0",
+            "source": "wikipedia",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "e4c3fda35e4b253c934eebdf98862c588007d197588a7b279c6b3ef3ba85a7ee",
+            "source": "wikipedia",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "4bf1375c2c1b2ff0018f2a2c8d361bde5be87f9b21db6f35dc7fb38d755cf9f0",
+            "source": "wikipedia",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "804ef781f2394ae2530ebba1e8860271a5a50b2c09add52a538780bc67384f10",
+            "source": "wikipedia",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "127f33fb2530ea03d3af0420afc5e0f283b23503e3dc7ff0ccd8e84dfd241f49",
+            "source": "wikipedia",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "aaadedc56af38da29e04e6086cdd03ebd3844f5c88aa7e2d20c5c5388f455141",
+            "source": "wikipedia",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "6f7f685d66034654244163c275aa8d4e22e72015e99d02a1161c5bc5e88ba444",
+            "source": "wikipedia",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "2b364d69f4259a683453d7ef82e467dce8ab263096f26a4df9aea7f07a7a60f5",
+            "source": "wikipedia",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "9e712ffaf3b7b079b10bfaa1e1d67f7ec51de118ee8eeaa7a10f8b0fde9b5910",
+            "source": "wikipedia",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "beccd776bdc07315be25d08c346969bdd986c7dae80302f14d3b1892fa674ecc",
+            "source": "wikipedia",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "c907f6c2f20d03900179318b2eb8027873677867b8b7f9d2d5766809237502d5",
+            "source": "wikipedia",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "f73ed34ca12a3e74504043f868ef2cfa4a585fe0b5ae28354b1e20ab9f7bde91",
+            "source": "wikipedia",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "c76424a0e0e742fb5e9691f25c2f48a070fa3b3e08aa9163b365a2eb48815acf",
+            "source": "wikipedia",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "274e2a09f7060b8ea234c1d6a91ec3e43b523a2911042a8696ac2b42fc531ca8",
+            "source": "wikipedia",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "dd47480f263c9c3b464c70be23fb2e4f08e3f223e44884d74a8dc654be0d2fbf",
+            "source": "wikipedia",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "a0601f09d73e005eb0e78fabad1f250b9fd228c10c848fb756bb0197025986ab",
+            "source": "wikipedia",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "01a28a651915cbe60a656623bac68f821bc330a951a7028167ae57d65c4507ee",
+            "source": "wikipedia",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "c8c9d8e957b21aad9595e05489ef0a157621c079c5666495bb702c6be0582125",
+            "source": "wikipedia",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "1b12215032357c20078f36029eca8e2c67788d7834cba572d712b7d769a288ee",
+            "source": "wikipedia",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "fbc957258e4d6de0fbc809180959d294831a87aa87d0749c599b5fb52f17d967",
+            "source": "wikipedia",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "193c1a4a77b48de9298abf69f353564b06506ed55a358060ea002afe9f3662d2",
+            "source": "wikipedia",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "7a86e59923d2878ed9a4b845ca72820de05cf8800f14ac6688c48ae342bdd1b3",
+            "source": "wikipedia",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "51e319ff3614eb258031bc209592fa36df164e35f100e2415575dda647fc9617",
+            "source": "wikipedia",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "03db6b3b50eb1718de13b4537b3b01187947d1743d8c25c4e7348a05ba1f476e",
+            "source": "wikipedia",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "d9367995f33b1ce8276658ff68100030ed007cedfdc0e29cc1e70868ac7c2a5b",
+            "source": "wikipedia",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "1f8f1bf444de5afdcc4e19bb6f62c56a8e8267992075876bbab5da68fd892eb0",
+            "source": "wikipedia",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "b899fff1b7d81ff8f5203e1233c0fcf42d9ab6058d40a023e3a8b395dbb1461b",
+            "source": "wikipedia",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "fe34d740b51f076eae014e050aeb93b8ac200f86f1f8b58afdd74e07868db3a5",
+            "source": "wikipedia",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "48e155af8c4210bd99ee995fb8f1db51314106460ad1e9ccc10f995e12f84523",
+            "source": "wikipedia",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "9d6816578f7adcb1e66eae05cd291216e812656e831c2a6f009143d5b0bfa898",
+            "source": "wikipedia",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "abb6f71b0d60d9266abb8d350e718812b00a5a01b880238c4e4cb8760c1f0c1d",
+            "source": "wikipedia",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "917240d03f7e16595c3decf76c8e905081ffcc59d16c50f0128332abd87516ee",
+            "source": "wikipedia",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "888625b4cb736ebf35bc554fdba0f0a27981384b66572bb0fb7e81037e234b39",
+            "source": "wikipedia",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "4915b3770f5c9ac893f684482dfcf6204390beea98faacd43b4dd0393ad93bf2",
+            "source": "wikipedia",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "b81664fe56316ef66ac51d058aabe540336665cafb8e75bef86c1a96db5ec1b1",
+            "source": "wikipedia",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "d455fb6d0ccaf27484700d10afcfe99b03acdb8f22c72f19eac825ad207108c6",
+            "source": "wikipedia",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "0d2b133c7d77ed33197368f9375238e4f02bb858403478f340f654173792e2c1",
+            "source": "wikipedia",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "7d0174469fd625915a26e4fb0dfa92578865bc3c97fdd31ba6a21a0df24c8797",
+            "source": "wikipedia",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "eb0009bb2a47917fdac0432af83e2e6b1a3f6132ac742717517b31f0eb47ebd9",
+            "source": "wikipedia",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "bbdac4e818e7a8d828669c585bd78abc8ec5d627fb815cc00bcc7b90c7a32fb3",
+            "source": "wikipedia",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "7b3b3daea3d3ddab8bcc4462169fece4ea5c5dcc9cf8d98f52d8bc4efff3d467",
+            "source": "wikipedia",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "2525a40a08e2116a34cd952e86bf0817cfb4431a1cb2e88a645dc5587290a185",
+            "source": "wikipedia",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "64a2f13b54dc91d5869907852cd6792941a530300de5c0ca9de055879af31502",
+            "source": "wikipedia",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "8bff28e35f0e33813ec5f3f2b14d37d4196d63fac21b2a7e9933707a27f671d5",
+            "source": "wikipedia",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "e9ae183b7e834f6311488072a7cbe5c8f887bfd2629b42d59bc83caa0d32fd07",
+            "source": "wikipedia",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "d3c5e3b681d6299c57923b312b8886ccfcff2e8a46d138eecdca45f41df8bed0",
+            "source": "wikipedia",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "ffe024b62430e4329259f98ad29cef7947944254b803f241de3b51e2653358c2",
+            "source": "wikipedia",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "5d675aaaef89c7e9b340de20f164638503d97a39dcac53d5db6762f613f2c591",
+            "source": "wikipedia",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "15a2309ff037755f0cfaabde0da65f0a646573fb07183b089529109298a8d195",
+            "source": "wikipedia",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "76eefc47356f6f8254bbc134dc46e8127fca413bb79a551af09a829cfb2603b0",
+            "source": "wikipedia",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "e4c3fda35e4b253c934eebdf98862c588007d197588a7b279c6b3ef3ba85a7ee",
+            "source": "wikipedia",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "4bf1375c2c1b2ff0018f2a2c8d361bde5be87f9b21db6f35dc7fb38d755cf9f0",
+            "source": "wikipedia",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "804ef781f2394ae2530ebba1e8860271a5a50b2c09add52a538780bc67384f10",
+            "source": "wikipedia",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "127f33fb2530ea03d3af0420afc5e0f283b23503e3dc7ff0ccd8e84dfd241f49",
+            "source": "wikipedia",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "aaadedc56af38da29e04e6086cdd03ebd3844f5c88aa7e2d20c5c5388f455141",
+            "source": "wikipedia",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "6f7f685d66034654244163c275aa8d4e22e72015e99d02a1161c5bc5e88ba444",
+            "source": "wikipedia",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "2b364d69f4259a683453d7ef82e467dce8ab263096f26a4df9aea7f07a7a60f5",
+            "source": "wikipedia",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "9e712ffaf3b7b079b10bfaa1e1d67f7ec51de118ee8eeaa7a10f8b0fde9b5910",
+            "source": "wikipedia",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "beccd776bdc07315be25d08c346969bdd986c7dae80302f14d3b1892fa674ecc",
+            "source": "wikipedia",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "c907f6c2f20d03900179318b2eb8027873677867b8b7f9d2d5766809237502d5",
+            "source": "wikipedia",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "f73ed34ca12a3e74504043f868ef2cfa4a585fe0b5ae28354b1e20ab9f7bde91",
+            "source": "wikipedia",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "c76424a0e0e742fb5e9691f25c2f48a070fa3b3e08aa9163b365a2eb48815acf",
+            "source": "wikipedia",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "274e2a09f7060b8ea234c1d6a91ec3e43b523a2911042a8696ac2b42fc531ca8",
+            "source": "wikipedia",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "dd47480f263c9c3b464c70be23fb2e4f08e3f223e44884d74a8dc654be0d2fbf",
+            "source": "wikipedia",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "a0601f09d73e005eb0e78fabad1f250b9fd228c10c848fb756bb0197025986ab",
+            "source": "wikipedia",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "01a28a651915cbe60a656623bac68f821bc330a951a7028167ae57d65c4507ee",
+            "source": "wikipedia",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "c8c9d8e957b21aad9595e05489ef0a157621c079c5666495bb702c6be0582125",
+            "source": "wikipedia",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "1b12215032357c20078f36029eca8e2c67788d7834cba572d712b7d769a288ee",
+            "source": "wikipedia",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "fbc957258e4d6de0fbc809180959d294831a87aa87d0749c599b5fb52f17d967",
+            "source": "wikipedia",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "193c1a4a77b48de9298abf69f353564b06506ed55a358060ea002afe9f3662d2",
+            "source": "wikipedia",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "7a86e59923d2878ed9a4b845ca72820de05cf8800f14ac6688c48ae342bdd1b3",
+            "source": "wikipedia",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "51e319ff3614eb258031bc209592fa36df164e35f100e2415575dda647fc9617",
+            "source": "wikipedia",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "03db6b3b50eb1718de13b4537b3b01187947d1743d8c25c4e7348a05ba1f476e",
+            "source": "wikipedia",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "d9367995f33b1ce8276658ff68100030ed007cedfdc0e29cc1e70868ac7c2a5b",
+            "source": "wikipedia",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "1f8f1bf444de5afdcc4e19bb6f62c56a8e8267992075876bbab5da68fd892eb0",
+            "source": "wikipedia",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "b899fff1b7d81ff8f5203e1233c0fcf42d9ab6058d40a023e3a8b395dbb1461b",
+            "source": "wikipedia",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "fe34d740b51f076eae014e050aeb93b8ac200f86f1f8b58afdd74e07868db3a5",
+            "source": "wikipedia",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "48e155af8c4210bd99ee995fb8f1db51314106460ad1e9ccc10f995e12f84523",
+            "source": "wikipedia",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "9d6816578f7adcb1e66eae05cd291216e812656e831c2a6f009143d5b0bfa898",
+            "source": "wikipedia",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "abb6f71b0d60d9266abb8d350e718812b00a5a01b880238c4e4cb8760c1f0c1d",
+            "source": "wikipedia",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "917240d03f7e16595c3decf76c8e905081ffcc59d16c50f0128332abd87516ee",
+            "source": "wikipedia",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "888625b4cb736ebf35bc554fdba0f0a27981384b66572bb0fb7e81037e234b39",
+            "source": "wikipedia",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "4915b3770f5c9ac893f684482dfcf6204390beea98faacd43b4dd0393ad93bf2",
+            "source": "wikipedia",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "b81664fe56316ef66ac51d058aabe540336665cafb8e75bef86c1a96db5ec1b1",
+            "source": "wikipedia",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "d455fb6d0ccaf27484700d10afcfe99b03acdb8f22c72f19eac825ad207108c6",
+            "source": "wikipedia",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "0d2b133c7d77ed33197368f9375238e4f02bb858403478f340f654173792e2c1",
+            "source": "wikipedia",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "7d0174469fd625915a26e4fb0dfa92578865bc3c97fdd31ba6a21a0df24c8797",
+            "source": "wikipedia",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "eb0009bb2a47917fdac0432af83e2e6b1a3f6132ac742717517b31f0eb47ebd9",
+            "source": "wikipedia",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "bbdac4e818e7a8d828669c585bd78abc8ec5d627fb815cc00bcc7b90c7a32fb3",
+            "source": "wikipedia",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "7b3b3daea3d3ddab8bcc4462169fece4ea5c5dcc9cf8d98f52d8bc4efff3d467",
+            "source": "wikipedia",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "2525a40a08e2116a34cd952e86bf0817cfb4431a1cb2e88a645dc5587290a185",
+            "source": "wikipedia",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "64a2f13b54dc91d5869907852cd6792941a530300de5c0ca9de055879af31502",
+            "source": "wikipedia",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "8bff28e35f0e33813ec5f3f2b14d37d4196d63fac21b2a7e9933707a27f671d5",
+            "source": "wikipedia",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "e9ae183b7e834f6311488072a7cbe5c8f887bfd2629b42d59bc83caa0d32fd07",
+            "source": "wikipedia",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "d3c5e3b681d6299c57923b312b8886ccfcff2e8a46d138eecdca45f41df8bed0",
+            "source": "wikipedia",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "ffe024b62430e4329259f98ad29cef7947944254b803f241de3b51e2653358c2",
+            "source": "wikipedia",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "ABT",
+            "source": "yfinance",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "ABT",
+            "source": "yfinance",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "AEE",
+            "source": "yfinance",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "AEE",
+            "source": "yfinance",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "AJG",
+            "source": "yfinance",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "AJG",
+            "source": "yfinance",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "ALGN",
+            "source": "yfinance",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "ALGN",
+            "source": "yfinance",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "AMAT",
+            "source": "yfinance",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "AMAT",
+            "source": "yfinance",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "AMCR",
+            "source": "yfinance",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "AMCR",
+            "source": "yfinance",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "APA",
+            "source": "yfinance",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "APA",
+            "source": "yfinance",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "BIO",
+            "source": "yfinance",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "BIO",
+            "source": "yfinance",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "BSX",
+            "source": "yfinance",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "BSX",
+            "source": "yfinance",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "CAT",
+            "source": "yfinance",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "CAT",
+            "source": "yfinance",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "CCL",
+            "source": "yfinance",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "CCL",
+            "source": "yfinance",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "CMS",
+            "source": "yfinance",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "CMS",
+            "source": "yfinance",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "COIN",
+            "source": "yfinance",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "COIN",
+            "source": "yfinance",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "CPRT",
+            "source": "yfinance",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "CPRT",
+            "source": "yfinance",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "CPT",
+            "source": "yfinance",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "CPT",
+            "source": "yfinance",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "DDOG",
+            "source": "yfinance",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "DDOG",
+            "source": "yfinance",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "DHI",
+            "source": "yfinance",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "DHI",
+            "source": "yfinance",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "ED",
+            "source": "yfinance",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "ED",
+            "source": "yfinance",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "EL",
+            "source": "yfinance",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "EL",
+            "source": "yfinance",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "ELV",
+            "source": "yfinance",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "ELV",
+            "source": "yfinance",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "EXR",
+            "source": "yfinance",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "EXR",
+            "source": "yfinance",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "F",
+            "source": "yfinance",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "F",
+            "source": "yfinance",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "FANG",
+            "source": "yfinance",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "FANG",
+            "source": "yfinance",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "GPC",
+            "source": "yfinance",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "GPC",
+            "source": "yfinance",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "GWW",
+            "source": "yfinance",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "GWW",
+            "source": "yfinance",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "HON",
+            "source": "yfinance",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "HON",
+            "source": "yfinance",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "HOOD",
+            "source": "yfinance",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "HOOD",
+            "source": "yfinance",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "HSIC",
+            "source": "yfinance",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "HSIC",
+            "source": "yfinance",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "HUBB",
+            "source": "yfinance",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "HUBB",
+            "source": "yfinance",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "ISRG",
+            "source": "yfinance",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "ISRG",
+            "source": "yfinance",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "KEYS",
+            "source": "yfinance",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "KEYS",
+            "source": "yfinance",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "MAA",
+            "source": "yfinance",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "MAA",
+            "source": "yfinance",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "MKC",
+            "source": "yfinance",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "MKC",
+            "source": "yfinance",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "MLM",
+            "source": "yfinance",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "MLM",
+            "source": "yfinance",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "NWSA",
+            "source": "yfinance",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "NWSA",
+            "source": "yfinance",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "PAYC",
+            "source": "yfinance",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "PAYC",
+            "source": "yfinance",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "PFG",
+            "source": "yfinance",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "PFG",
+            "source": "yfinance",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "PGR",
+            "source": "yfinance",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "PGR",
+            "source": "yfinance",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "PH",
+            "source": "yfinance",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "PH",
+            "source": "yfinance",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "QCOM",
+            "source": "yfinance",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "QCOM",
+            "source": "yfinance",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "SLB",
+            "source": "yfinance",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "SLB",
+            "source": "yfinance",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "SNPS",
+            "source": "yfinance",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "SNPS",
+            "source": "yfinance",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "SWKS",
+            "source": "yfinance",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "SWKS",
+            "source": "yfinance",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "TKO",
+            "source": "yfinance",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "TKO",
+            "source": "yfinance",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "TTWO",
+            "source": "yfinance",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "TTWO",
+            "source": "yfinance",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "WM",
+            "source": "yfinance",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "WM",
+            "source": "yfinance",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "WMB",
+            "source": "yfinance",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 1.0,
+            "resolved": true
+        },
+        {
+            "id": "WMB",
+            "source": "yfinance",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "WSM",
+            "source": "yfinance",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "WSM",
+            "source": "yfinance",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "WYNN",
+            "source": "yfinance",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "WYNN",
+            "source": "yfinance",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "XEL",
+            "source": "yfinance",
+            "direction": null,
+            "resolution_date": "2026-09-06",
+            "resolved_to": 0.0,
+            "resolved": true
+        },
+        {
+            "id": "XEL",
+            "source": "yfinance",
+            "direction": null,
+            "resolution_date": "2026-09-29",
+            "resolved_to": 0.0,
+            "resolved": true
+        }
+    ]
+}

@@ -1,0 +1,243 @@
+LEAK AUDIT: every rendered question block (Assume-today line + question block)
+
+Total hits to review by hand: 3
+
+[main] fb-b9c1eeec804b polymarket forecast-term          …y. The candidates may be named in the contract for the convenience of traders. In the event that any named candidate is replaced as the nominee of …
+[main] fb-6bb6533e0960 kalshi     forecast-term          …is not started within 48 hours, the market will resolve to the a fair market price. /  / the question host is not affiliated,  associated,  authorized, endo…
+[main] fb-c96844bbc035 polymarket forecast-term          …d Republican parties are named in the contract for the convenience of traders. In the event that any named candidate is replaced as the nominee of …
+
+
+BLOCKS TO READ IN FULL (20, seeded)
+
+====================================================================================================
+fb-3880287c20f1 | serpapi | stratum serpapi | (hidden: outcome 0, crowd None)
+Assume today's date is 2026-10-11.
+Question: Will the listed price in USD of 'Domino Pure Cane Granulated Sugar 4 lb Bag', sold by Walmart.com for Cheyenne Dell Range Blvd Supercenter (store 1315), be higher on 2026-11-10 than on 2026-10-11?
+Resolution criteria: We compare the qualifying price on the resolution date with its price on the forecast due date. A strictly higher price resolves Yes; equal or lower resolves No.
+
+Only saved SerpApi measurements from the Walmart product API (walmart_product) determine the outcome, following the background's rules.
+Resolution date: 2026-11-10
+Background: This question tracks the listed USD price of 'Domino Pure Cane Granulated Sugar 4 lb Bag' (Walmart item ID 19500189), sold directly by Walmart.com and listed for Cheyenne Dell Range Blvd Supercenter (2032 Dell Range Blvd, Cheyenne, WY 82009, store 1315). For manual checks, select the store manually on Walmart: https://www.walmart.com/ip/19500189; the URL does not set it.
+
+Only in-stock items with a positive price in the primary product result qualify. Other sellers, product variants and alternative offers do not qualify. Shipping, taxes, per-unit prices and previous prices are excluded. The item, store, availability, seller and price must all be confirmed; missing or conflicting evidence makes the measurement unavailable. Walmart fulfillment does not establish the seller.
+
+We first collect data around 00:00 UTC and keep only the first valid price collected each UTC day. If a price is unavailable on either the forecast due date or the resolution date (e.g., a product is out of stock), we use the first valid price collected in the following 7 calendar days. A replacement for the forecast due date price must come strictly before the resolution date being evaluated. If no replacement price is found that meets the above criteria, the question remains unresolved. We display the reference price from the latest saved date without applying this replacement rule, or N/A when unavailable.
+Latest available value: 4.74 (as of 2026-10-09). The listed item price in USD saved for 2026-10-09 (UTC).
+====================================================================================================
+fb-011d4ce80ac5 | yfinance | stratum yfinance | (hidden: outcome 1, crowd None)
+Assume today's date is 2026-09-27.
+Question: Will USB's market close price on 2026-10-27 be higher than its market close price on 2026-09-27?
+
+Stock splits and reverse splits will be accounted for in resolving this question. Forecasts on questions about companies that have been delisted (through mergers or bankruptcy) will resolve to their final close price.
+Resolution criteria: Resolves to the market close price at https://finance.yahoo.com/quote/USB for the resolution date. If the resolution date coincides with a day the market is closed (weekend, holiday, etc.) the previous market close price is used.
+Resolution date: 2026-10-27
+Background: U.S. Bancorp, a financial services holding company, provides various financial services to individuals, businesses, institutional organizations, governmental entities, and other financial institutions in the United States. The company operates through Wealth, Corporate, Commercial and Institutional Banking; Consumer and Business Banking; Payment Services; and Treasury and Corporate Support segments. It offers depository services, including checking accounts, savings accounts, and time certificate contracts; and lending services, such as traditional credit products and credit card services, lease financing and import/export trade, agricultural finance, asset-backed lending, and other products. The company also provides cash management, capital markets, and trust and investment management services; and ancillary services comprising capital markets, treasury management, and receivable lock-box collection services to corporate and governmental entity customers. In addition, it offers asset management and fiduciary services for individuals, estates, foundations, business corporations, and charitable organizations; and investment and insurance products to its customers principally within its domestic markets, as well as fund administration services to mutual and other funds. Further, the company provides corporate and purchasing card, and corporate trust services; and credit card services, merchant and ATM processing, mortgage banking, insurance, brokerage and leasing services. …
+Latest available value: 59.44 (as of 2026-09-23). The latest market close price of USB.
+====================================================================================================
+fb-6ac3542ad840 | wikipedia | stratum wikipedia | (hidden: outcome 0, crowd None)
+Assume today's date is 2026-01-18.
+Question: According to Wikipedia, will Anna Muzychuk have an Elo rating on 2026-01-25 that's at least 1% higher than on 2026-01-18?
+Resolution criteria: Resolves to the value calculated from https://en.wikipedia.org/wiki/FIDE_rankings on the resolution date.
+Resolution date: 2026-01-25
+Background: The International Chess Federation (FIDE) governs international chess competition. Each month, FIDE publishes the lists 'Top 100 Players', 'Top 100 Women', 'Top 100 Juniors' and 'Top 100 Girls' and rankings of countries according to the average rating of their top 10 players and top 10 female players.
+To create the rankings, FIDE uses the Elo rating system, which is a method for calculating the relative skill levels of players in zero-sum games such as chess. The difference in the ratings between two players serves as a predictor of the outcome of a match. Two players with equal ratings who play against each other are expected to score an equal number of wins.
+A player's Elo rating is a number which may change depending on the outcome of rated games played. After every game, the winning player takes points from the losing one. The difference between the ratings of the winner and loser determines the total number of points gained or lost after a game. If the higher-rated player wins, then only a few rating points will be taken from the lower-rated player. However, if the lower-rated player scores an upset win, many rating points will be transferred. The lower-rated player will also gain a few points from the higher rated player in the event of a draw. This means that this rating system is self-correcting. Players whose ratings are too low or too high should, in the long run, do better or worse correspondingly than the rating system predicts and thus gain or lose rating points …
+Latest available value: 2522.0 (as of 2026-01-08). Anna Muzychuk's ELO rating.
+====================================================================================================
+fb-6b8edf335bbe | fred | stratum fred | (hidden: outcome 0, crowd None)
+Assume today's date is 2026-08-02.
+Question: Will the yield spread between 10-year and 2-year US Treasury bonds have increased by 2026-09-01 as compared to its value on 2026-08-02?
+Resolution criteria: Resolves to the value found at https://fred.stlouisfed.org/series/T10Y2Y once the data is published.
+Resolution date: 2026-09-01
+Background: The notes from the release: N/A. The notes from the series: Starting with the update on June 21, 2019, the Treasury bond data used in calculating interest rate spreads is obtained directly from the U.S. Treasury Department (https://www.treasury.gov/resource-center/data-chart-center/interest-rates/Pages/TextView.aspx?data=yield).
+Series is calculated as the spread between 10-Year Treasury Constant Maturity (BC_10YEAR) and 2-Year Treasury Constant Maturity (BC_2YEAR). Both underlying series are published at the U.S. Treasury Department (https://www.treasury.gov/resource-center/data-chart-center/interest-rates/Pages/TextView.aspx?data=yield).. Additional background of the series:  1. the units of the series: Percent. 2. the seasonal adjustments of the series:  Not Seasonally Adjusted  3. the update frequency: Daily
+Latest available value: 0.36 (as of 2026-07-23). The latest value released in 10-Year Treasury Constant Maturity Minus 2-Year Treasury Constant Maturity from the release Interest Rate Spreads.
+====================================================================================================
+fb-27d454fe4e65 | serpapi | stratum serpapi | (hidden: outcome 0, crowd None)
+Assume today's date is 2026-10-25.
+Question: Will the listed price in USD of 'Tropicana Pure Premium Original 100% Orange Juice No Pulp 46 fl oz Bottle', sold by Walmart.com for San Diego College Ave Supercenter (store 2479), be higher on 2026-11-01 than on 2026-10-25?
+Resolution criteria: We compare the qualifying price on the resolution date with its price on the forecast due date. A strictly higher price resolves Yes; equal or lower resolves No.
+
+Only saved SerpApi measurements from the Walmart product API (walmart_product) determine the outcome, following the background's rules.
+Resolution date: 2026-11-01
+Background: This question tracks the listed USD price of 'Tropicana Pure Premium Original 100% Orange Juice No Pulp 46 fl oz Bottle' (Walmart item ID 5512318310), sold directly by Walmart.com and listed for San Diego College Ave Supercenter (3412 College Ave, San Diego, CA 92115, store 2479). For manual checks, select the store manually on Walmart: https://www.walmart.com/ip/5512318310; the URL does not set it.
+
+Only in-stock items with a positive price in the primary product result qualify. Other sellers, product variants and alternative offers do not qualify. Shipping, taxes, per-unit prices and previous prices are excluded. The item, store, availability, seller and price must all be confirmed; missing or conflicting evidence makes the measurement unavailable. Walmart fulfillment does not establish the seller.
+
+We first collect data around 00:00 UTC and keep only the first valid price collected each UTC day. If a price is unavailable on either the forecast due date or the resolution date (e.g., a product is out of stock), we use the first valid price collected in the following 7 calendar days. A replacement for the forecast due date price must come strictly before the resolution date being evaluated. If no replacement price is found that meets the above criteria, the question remains unresolved. We display the reference price from the latest saved date without applying this replacement rule, or N/A when unavailable.
+Latest available value: 3.88 (as of 2026-10-09). The listed item price in USD saved for 2026-10-09 (UTC).
+====================================================================================================
+fb-3fb3adff5ff6 | metaculus | stratum market_0.20-0.40 | (hidden: outcome 1, crowd 0.35)
+Assume today's date is 2026-10-11.
+Question: Will Nigeria's inflation rate fall below 15% during 2026?
+Resolution criteria: This question will resolve as Yes if Nigeria's official headline year-over-year inflation rate, as published by the National Bureau of Statistics (NBS), is less than 15.0% in any monthly release during 2026.
+Resolution date: 2026-12-31
+Background: Nigeria’s inflation surged after major reforms in 2023, especially the removal of fuel subsidies and the devaluation of the naira, which raised transport, import, and food costs. Inflation remained very high through 2024, with the official headline rate reaching 34.19% in June 2024, according to Nigeria’s National Bureau of Statistics (NBS).
+
+In 2025, Nigeria rebased its Consumer Price Index, updating the inflation basket for the first time in years. Reuters reported that the rebasing sharply lowered the official inflation rate mechanically, while the NBS said the update was supported by institutions including the World Bank, IMF, and Central Bank of Nigeria.
+
+By 2026, inflation had fallen far from its 2024 peak but remained near the 15% threshold. The NBS reported headline inflation at 15.93% in May 2026, up from 15.69% in April and 15.38% in March; the Central Bank of Nigeria’s inflation table shows the same recent readings.
+
+The outlook is mixed. The IMF said inflation had been declining for over a year before edging up in March 2026 due to fuel and food price shocks, but it still expected disinflation to resume in the second half of the year. However, with inflation still slightly above 15% and food prices rising, the question depends on whether these pressures ease before the end of 2026.
+====================================================================================================
+fb-e5a39107e1c1 | yfinance | stratum yfinance | (hidden: outcome 0, crowd None)
+Assume today's date is 2026-09-13.
+Question: Will HLT's market close price on 2026-09-20 be higher than its market close price on 2026-09-13?
+
+Stock splits and reverse splits will be accounted for in resolving this question. Forecasts on questions about companies that have been delisted (through mergers or bankruptcy) will resolve to their final close price.
+Resolution criteria: Resolves to the market close price at https://finance.yahoo.com/quote/HLT for the resolution date. If the resolution date coincides with a day the market is closed (weekend, holiday, etc.) the previous market close price is used.
+Resolution date: 2026-09-20
+Background: Hilton Worldwide Holdings Inc., a hospitality company, engages in managing, franchising, and leasing hotels and resorts. It operates in two segments, Management and Franchise, and Ownership. The company engages in the hotel management and licensing of its brand names, trademarks, and service marks. It operates a brand portfolio of luxury, lifestyle, full service, focused service, all-suites hotel, and timeshare under the Waldorf Astoria Hotels & Resorts, LXR Hotels & Resorts, Conrad Hotels & Resorts, Signia by Hilton, NoMad, Canopy by Hilton, Graduate by Hilton, Tempo by Hilton, Motto by Hilton, Hilton Hotels & Resorts, DoubleTree by Hilton, Curio Collection by Hilton, Tapestry Collection by Hilton, Outset Collection by Hilton, Embassy Suites by Hilton, Homewood Suites by Hilton, Home2 Suites by Hilton, LivSmart Studios by Hilton, Hilton Garden Inn, Hampton by Hilton, Tru by Hilton, Spark by Hilton, Hilton Grand Vacations, Small Luxury Hotels of the World, AutoCamp, and Hilton Honors brand names. The company has operations in North America, South America, and Central America, including various Caribbean nations; Europe, the Middle East, and Africa; and the Asia Pacific. Hilton Worldwide Holdings Inc. was founded in 1919 and is headquartered in McLean, Virginia.
+Latest available value: None (as of 2026-09-03). The latest market close price of HLT.
+====================================================================================================
+fb-241ff5de8330 | kalshi | stratum market_0.20-0.40 | (hidden: outcome 1, crowd 0.39)
+Assume today's date is 2026-09-13.
+Question: Will the WTI front-month settle oil price  be >79.99 on Nov 3, 2026?
+Resolution criteria: If the front-month settle price for a barrel of West Texas Intermediate oil on November 03, 2026 is above $79.99, then the market resolves to Yes. Outcome verified from ICE (https://www.theice.com/products/213/WTI-Crude-Futures).
+Resolution date: 2026-11-03
+====================================================================================================
+fb-c61a3f5f26d5 | yfinance | stratum yfinance | (hidden: outcome 1, crowd None)
+Assume today's date is 2026-10-11.
+Question: Will Airbnb, Inc. (ABNB) have a higher rate of return than Edwards Lifesciences Corporation (EW) between 2026-10-11 and 2026-10-18?
+
+For each resolution date, a stock's rate of return is calculated as its market close price on that date divided by its market close price on 2026-10-11, minus one. Prices are adjusted for stock splits and reverse splits. Dividends are not included. If either stock is delisted (e.g., through acquisition, merger, or bankruptcy), the most recent market close price before delisting is used for all subsequent resolution dates.
+Resolution criteria: Resolves using the market close prices at https://finance.yahoo.com/quote/ABNB and https://finance.yahoo.com/quote/EW. If a date in the question coincides with a day the market is closed (weekend, holiday, etc.) the previous market close price is used.
+Resolution date: 2026-10-18
+Background: ABNB: Airbnb, Inc., together with its subsidiaries, operates a platform for stays, experiences, and services worldwide. The company's marketplace connects hosts and guests online or through mobile devices to book spaces, experiences, and services. It also offers gift cards. The company was formerly known as AirBed & Breakfast, Inc. and changed its name to Airbnb, Inc. in November 2010. Airbnb, Inc. was founded in 2007 and is headquartered in San Francisco, California.
+
+EW: Edwards Lifesciences Corporation provides products and technologies to treat advanced cardiovascular diseases in the United States, Europe, Japan, and internationally. It offers transcatheter heart valve replacement products for minimally invasive replacement of aortic heart valves under the Edwards SAPIEN family of valves system; and transcatheter heart valve repair and replacement products to treat mitral and tricuspid valve diseases under the PASCAL and EVOQUE brands. The company also provides surgical structural heart solutions, such as aortic surgical valve under the INSPIRIS brand name; INSPIRIS RESILIA aortic valve, which offers RESILIA tissue and VFit technology; KONECT RESILIA, a pre-assembled tissue valve conduit for complex combined procedures; and MITRIS RESILIA valve. It distributes its products through a direct sales force and independent distributors. Edwards Lifesciences Corporation was founded in 1958 and is headquartered in Irvine, California.
+Latest available value: ABNB: 163.23 (-6.5% over the last 30 days); EW: 84.24 (-2.9% over the last 30 days) (as of 2026-10-09). The latest market close price of each stock, in US dollars, and its percent change over the preceding 30 days.
+====================================================================================================
+fb-dba1ec5dde67 | fred | stratum fred | (hidden: outcome 1, crowd None)
+Assume today's date is 2026-06-07.
+Question: Will the Federal Reserve Bank of Cleveland's estimate for the 1-year real interest rate have increased by 2026-07-07 as compared to its value on 2026-06-07?
+Resolution criteria: Resolves to the value found at https://fred.stlouisfed.org/series/REAINTRATREARAT1YE once the data is published.
+Resolution date: 2026-07-07
+Background: The notes from the release: N/A. The notes from the series: The Federal Reserve Bank of Cleveland estimates the expected rate of inflation over the next 30 years along with the inflation risk premium, the real risk premium, and the real interest rate.
+
+Their estimates are calculated with a model that uses Treasury yields, inflation data, inflation swaps, and survey-based measures of inflation expectations.
+
+For more information, please visit the Federal Reserve Bank of Cleveland.. Additional background of the series:  1. the units of the series: Percent. 2. the seasonal adjustments of the series:  Not Seasonally Adjusted  3. the update frequency: Monthly
+Latest available value: 0.35214107 (as of 2026-05-28). The latest value released in 1-Year Real Interest Rate from the release Inflation Expectations.
+====================================================================================================
+fb-1a45e2a1b5ae | fred | stratum fred | (hidden: outcome 0, crowd None)
+Assume today's date is 2026-07-05.
+Question: Will the weekly number of initial unemployment claims have increased by 2026-10-03 as compared to its value on 2026-07-05?
+Resolution criteria: Resolves to the value found at https://fred.stlouisfed.org/series/ICSA once the data is published.
+Resolution date: 2026-10-03
+Background: The notes from the release: N/A. The notes from the series: An initial claim is a claim filed by an unemployed individual after a separation from an employer. The claim requests a determination of basic eligibility for the Unemployment Insurance program.. Additional background of the series:  1. the units of the series: Number. 2. the seasonal adjustments of the series:  Seasonally Adjusted  3. the update frequency: Weekly, Ending Saturday
+Latest available value: 226000.0 (as of 2026-06-25). The latest value released in Initial Claims from the release Unemployment Insurance Weekly Claims Report.
+====================================================================================================
+fb-c15f9e8fc26d | polymarket | stratum market_0.03-0.20 | (hidden: outcome 1, crowd 0.155)
+Assume today's date is 2026-05-24.
+Question: Will Oh Se-hoon win the 2026 Seoul Mayoral Election
+Resolution date: 2026-06-03
+Background: The 2026 Seoul mayoral election is scheduled to take place on June 3, 2026 to elect the next mayor of Seoul.
+
+This market will resolve according to the listed candidate that wins this election.
+
+If the result of this election isn't known by January 31, 2027, 11:59 PM ET, the market will resolve to "Other".
+
+This market will resolve based on the result of the election as indicated by a consensus of credible reporting. If there is ambiguity, this market will resolve based solely on the official results as reported by the South Korean government, specifically the National Election Commission.
+====================================================================================================
+fb-a56cb7be4b62 | manifold | stratum market_0.40-0.60 | (hidden: outcome 1, crowd 0.5086456471196711)
+Assume today's date is 2026-04-12.
+Question: Will Intel Stock (INTC) reach $63 in 2026?
+Resolution date: 2026-12-31
+Background: resolves based on yahoo finance if it closes above or at $63 at any point in 2026.
+====================================================================================================
+fb-55df394bc412 | metaculus | stratum market_0.20-0.40 | (hidden: outcome 0, crowd 0.32)
+Assume today's date is 2026-10-25.
+Question: Will Missouri's 2026 Amendment 3 pass, repealing the 2024 abortion-rights protections?
+Resolution criteria: This question will resolve as **Yes** if Missouri's Amendment 3 (HJR 73, 2025) passes in the November 3, 2026 vote, according to the official certified results.
+Resolution date: 2026-11-03
+Background: On November 5, 2024, Missouri voters approved Amendment 3 (the "Right to Reproductive Freedom Initiative") by roughly 52% to 48%, adding Article I, Section 36 to the state constitution and establishing a fundamental right to reproductive freedom, including abortion through fetal viability. Missouri was the first state to roll back a pre-Dobbs near-total abortion ban via citizen initiative.
+
+In May 2025, the Missouri General Assembly passed House Joint Resolution 73, referring a new constitutional amendment to the November 3, 2026 ballot. If approved, the 2026 Amendment 3 would:
+
+* Repeal Article I, Section 36 (the 2024 amendment);
+* Prohibit abortion except in cases of medical emergency, fetal anomaly, or rape and incest (the latter only up to 12 weeks' gestation);
+* Require parental or guardian consent for minors seeking abortion;
+* Prohibit gender-affirming medical care for minors (already barred under SB 49 until August 2027).
+
+The "Yes on 3" campaign is led by the Her Health, Her Future PAC, with Missouri First Lady Claudia Kehoe as treasurer and backing from Governor Mike Kehoe and Republican legislative leadership. The opposition campaign, Stop the Ban, includes Planned Parenthood, the ACLU of Missouri, and Abortion Action Missouri.
+
+Missouri constitutional amendments referred by the legislature require a simple statewide majority of votes cast on the measure to pass.
+====================================================================================================
+fb-fbddd8cada3f | polymarket | stratum market_0.40-0.60 | (hidden: outcome 1, crowd 0.45)
+Assume today's date is 2026-08-30.
+Question: Will the number of Democratic House members who retire in 2026 be between 20 and 23 inclusive?
+Resolution date: 2026-08-31
+Background: The 2026 U.S. general elections for Congress are scheduled to be held on November 3, 2026.
+
+This market will resolve according to the total number of Democratic members of the U.S. House of Representatives who are considered to be retiring or not seeking reelection in 2026.
+
+For the purposes of this market, a member may be considered not to seek reelection if:
+• They publicly announce they are retiring from Congress and will not run for reelection to their current seat
+• They choose to run for a different elected office in 2026 instead of running for reelection to their current seat
+• They do not seek their party’s nomination for reelection to their current seat, meaning they neither file for reelection nor participate in their party’s nominating process (such as a primary, convention, or caucus)
+
+Only members whose current term is scheduled to end with the 2026 regular election for the House may qualify for this market.
+
+This market will not resolve until after the relevant final 2026 candidate filing deadline has passed in all states, which is expected to occur in late August 2026.
+
+The resolution source for this market will be a consensus of credible reporting.
+====================================================================================================
+fb-32ea7f2efa38 | fred | stratum fred | (hidden: outcome 1, crowd None)
+Assume today's date is 2026-03-29.
+Question: Will the Nominal Advanced Foreign Economies US Dollar Index, a weighted average of the foreign exchange value of the US dollar against a subset of broad index currencies that are advanced foreign economies, have increased by 2026-04-05 as compared to its value on 2026-03-29?
+Resolution criteria: Resolves to the value found at https://fred.stlouisfed.org/series/DTWEXAFEGS once the data is published.
+Resolution date: 2026-04-05
+Background: The notes from the release: For questions on the data, please contact the data source: https://www.federalreserve.gov/apps/ContactUs/feedback.aspx?refurl=/releases/h10/%
+For questions on FRED functionality, please contact: https://fred.stlouisfed.org/contactus/. The notes from the series: data source (https://www.federalreserve.gov/apps/ContactUs/feedback.aspx?refurl=/releases/h10/%). For questions on FRED functionality, please contact us here (https://fred.stlouisfed.org/contactus/).. Additional background of the series:  1. the units of the series: Index Jan 2006=100. 2. the seasonal adjustments of the series:  Not Seasonally Adjusted  3. the update frequency: Daily
+Latest available value: 112.671 (as of 2026-03-19). The latest value released in Nominal Advanced Foreign Economies U.S. Dollar Index from the release H.10 Foreign Exchange Rates.
+====================================================================================================
+fb-7d60a8e0410b | yfinance | stratum yfinance | (hidden: outcome 0, crowd None)
+Assume today's date is 2026-02-01.
+Question: Will HRL's market close price on 2026-05-02 be higher than its market close price on 2026-02-01?
+
+Stock splits and reverse splits will be accounted for in resolving this question. Forecasts on questions about companies that have been delisted (through mergers or bankruptcy) will resolve to their final close price.
+Resolution criteria: Resolves to the market close price at https://finance.yahoo.com/quote/HRL for the resolution date. If the resolution date coincides with a day the market is closed (weekend, holiday, etc.) the previous market close price is used.
+Resolution date: 2026-05-02
+Background: Hormel Foods Corporation develops, processes, and distributes various meat, nuts, and other food products to foodservice, convenience store, and commercial customers in the United States and internationally. It operates through three segments: Retail, Foodservice, and International segments. The company provides various perishable products, including resh meats, frozen items, refrigerated meal solutions, bacon, sausages, hams, guacamole, and other items that require refrigeration; and shelf-stable products, such as canned luncheon meats, nut butters, snack nuts, chili, shelf-stable microwaveable meals, hash, stews, tortillas, salsas, tortilla chips, and other items that do not require refrigeration. It sells its products under the HORMEL, ALWAYS TENDER, APPLEGATE, AUSTIN BLUES, BACON 1, BLACK LABEL, BREAD READY, BURKE, CAFÉ H, CERATTI, CHI-CHI'S, COLUMBUS, COMPLEATS, CORN NUTS, CURE 81, DAN'S PRIZE, DI LUSSO, DINTY MOORE, DON MIGUEL, DOÑA MARIA, EMBASA, FAST N EASY, FIRE BRAISED, FONTANINI, HERDEZ, HORMEL GATHERINGS, HOUSE OF TSANG, JENNIE-O, JUSTIN'S, LA VICTORIA, LAYOUT, LLOYD'S, MARY KITCHEN, MR. PEANUT, NATURAL CHOICE, NUT-RITION, OLD SMOKEHOUSE, OVEN READY, PILLOW PACK, PLANTERS, ROSA GRANDE, SADLER'S SMOKEHOUSE, SKIPPY, SPAM, SQUARE TABLE, SPECIAL RECIPE, VALLEY FRESH, and WHOLLY brands through sales personnel, independent brokers, and distributors. The company was formerly known as Geo. A. Hormel & Company and changed its name to Hormel Foods Corporation in January …
+Latest available value: 24.43 (as of 2026-01-22). The latest market close price of HRL.
+====================================================================================================
+fb-2b9fcde885e0 | polymarket | stratum market_0.03-0.20 | (hidden: outcome 0, crowd 0.0335)
+Assume today's date is 2026-09-13.
+Question: Will Progressistas (PP) hold the most seats as a result of the next Brazilian Senate election?
+Resolution date: 2026-10-04
+Background: The next federal Senate election is scheduled to take place in Brazil on October 4, 2026, in which two-thirds of the Senate’s 81 seats will be contested.
+
+This market will resolve according to the political party that holds the greatest number of seats in the next Brazilian Senate as a result of the next Brazilian Senate election.
+
+All seats, not only the ones contested in the next Brazilian Senate election, will be considered.
+
+In the event of a tie between multiple parties for the most seats held, this market will resolve in favor of the party whose listed abbreviation appears first in alphabetical order.
+
+This market's resolution will be based solely on the number of seats held by the named party in the Brazilian Senate as a result of the next Brazilian Senate election, not by any federation or coalition it may be a part of.
+
+If the result of this election isn't known definitively by June 30, 2027, 11:59 PM ET, the market will resolve to "Other".
+
+This market will resolve based on the result of the election, as indicated by a consensus of credible reporting. If there is ambiguity, this market will resolve based solely on the official results as reported by the Brazilian government, specifically the Superior Electoral Court (Tribunal Superior Eleitoral, TSE) (e.g., www.tse.jus.br/eleicoes/resultados-eleicoes) or the Brazilian Senate (https://www25.senado.leg.br/web/senadores/em-exercicio/-/e/por-partido).
+====================================================================================================
+fb-af4995f35d01 | serpapi | stratum serpapi | (hidden: outcome 0, crowd None)
+Assume today's date is 2026-10-25.
+Question: Will the listed price in USD for a new 'Amazon Basics AA Alkaline Batteries 1.5 Volt 48 Pack', sold by Amazon.com, be higher on 2026-11-01 than on 2026-10-25?
+Resolution criteria: We compare the qualifying price on the resolution date with its price on the forecast due date. A strictly higher price resolves Yes; equal or lower resolves No.
+
+Only saved SerpApi measurements from the Amazon product API (amazon_product) determine the outcome, following the background's rules.
+Resolution date: 2026-11-01
+Background: This question tracks the listed USD price of a new Amazon Basics AA Alkaline Batteries 1.5 Volt 48 Pack (ASIN B00MNV8E0C), sold directly by Amazon.com for delivery to ZIP 10001. For manual checks, stay signed out and select ZIP 10001 on Amazon: https://www.amazon.com/dp/B00MNV8E0C?language=en_US; the URL does not set it.
+
+Results are collected in English. Other sellers, product variants, Amazon Resale, and used or refurbished items do not qualify. Shipping, taxes, coupons, subscriptions, member-only prices, per-unit prices and crossed-out prices are excluded. The product, condition, seller and price must all be confirmed; missing or conflicting evidence makes the measurement unavailable. Amazon fulfillment alone does not establish the seller. Product titles may change; the ASIN identifies the product. Returned offers may be incomplete, and checkout prices are not verified.
+
+We first collect data around 00:00 UTC and keep only the first valid price collected each UTC day. If a price is unavailable on either the forecast due date or the resolution date (e.g., a product is out of stock), we use the first valid price collected in the following 7 calendar days. A replacement for the forecast due date price must come strictly before the resolution date being evaluated. If no replacement price is found that meets the above criteria, the question remains unresolved. We display the reference price from the latest saved date without applying this replacement rule, or N/A when …
+Latest available value: 15.29 (as of 2026-10-09). The listed item price in USD saved for 2026-10-09 (UTC).
+====================================================================================================
+fb-16b73de2a63d | wikipedia | stratum wikipedia | (hidden: outcome 0, crowd None)
+Assume today's date is 2025-10-26.
+Question: According to Wikipedia, will a vaccine have been developed for Prevotella infection by 2026-01-24?
+Resolution criteria: Resolves to the value calculated from https://en.wikipedia.org/wiki/List_of_infectious_diseases on the resolution date.
+Resolution date: 2026-01-24
+Background: According to Wikipedia, Prevotella infection is the common name of an infectious disease. A vaccine is a biological preparation that provides active acquired immunity to a particular infectious or malignant disease. The safety and effectiveness of vaccines has been widely studied and verified. A vaccine typically contains an agent that resembles a disease-causing microorganism and is often made from weakened or killed forms of the microbe, its toxins, or one of its surface proteins. The agent stimulates the body's immune system to recognize the agent as a threat, destroy it, and recognize further and destroy any of the microorganisms associated with that agent that it may encounter in the future.
+Latest available value: No (as of 2025-10-16). Vaccine status for Prevotella infection. 'No' means that a vaccine has not yet been created. 'Yes' means that it has.
